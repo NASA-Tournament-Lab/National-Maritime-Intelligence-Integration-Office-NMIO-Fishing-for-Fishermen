@@ -1,0 +1,4 @@
+TrackNumber,Time(seconds),Latitude,Longitude,SOG,oceanic depth,Chlorophyll Concentration,Salinity,Water Surface Elevation,Sea Temperature,Thermocline Depth,Eastward Water Velocity,Northward Water Velocity
+116361,0,54.395233,11.215483,0.7,-2,13.1438,20.5,0.17,17.900000000000002,-99999.,-0.03,-0.01
+116361,3454425,54.419848,11.19184,0.,-3,24.5041,20.200000000000003,-0.19,14.8,-99999.,-0.01,0.
+116361,3454457,54.41984,11.191857,0.,-3,24.5025,20.200000000000003,-0.19,14.8,-99999.,-0.01,0.

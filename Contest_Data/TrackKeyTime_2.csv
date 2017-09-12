@@ -1,0 +1,2449 @@
+MMSI,TrackNumber,SimpleVesselType,ComplexVesselType,StartTime,ContestVesselType
+201100153,126474,Purse Seiner,Purse Seiner,1438410609,Seiner
+204201560,113716,Pole and Line,Pole and Line,1435709562,Other
+204206740,109422,Pole and Line,Pole and Line,1435709334,Other
+204208790,126757,Pole and Line,Pole and Line,1435713261,Other
+204209570,122180,Pole and Line,Pole and Line,1435781723,Other
+204209840,103182,Pole and Line,Pole and Line,1435709058,Other
+204209960,124696,Pole and Line,Pole and Line,1435709359,Other
+204211000,114621,Longliner,Longliner,1436518426,Longliner
+204212000,107622,Longliner,Tuna longliner,1435709274,Longliner
+204225000,102341,Longliner,Longliner,1435727267,Longliner
+204226000,130534,Longliner,Longliner,1441709019,Longliner
+204228000,125683,Longliner,Tuna longliner,1435709140,Longliner
+204232000,127690,Longliner,Longliner,1437471170,Longliner
+204233000,104663,Longliner,Longliner,1436640332,Longliner
+204235000,112714,Longliner,Longliner,1435734099,Longliner
+204264000,118508,Pole and Line,Pole and Line,1435709639,Other
+204287000,102177,Pole and Line,Pole and Line,1435709272,Other
+204807000,104308,Pole and Line,Pole and Line,1436094919,Other
+204810000,120097,Pole and Line,Pole and Line,1435709017,Other
+204811000,126319,Longliner,Longliner,1435710300,Longliner
+204812000,101910,Pole and Line,Pole and Line,1435708989,Other
+204813000,106324,Longliner,Longliner,1435708824,Longliner
+204814000,130837,Longliner,Longliner,1435718822,Longliner
+204815000,106377,Longliner,Longliner,1435753076,Longliner
+204826000,111674,Pole and Line,Pole and Line,1435759529,Other
+204829000,116525,Pole and Line,Pole and Line,1435713175,Other
+204834000,125685,Pole and Line,Pole and Line,1435713140,Other
+204835000,102340,Pole and Line,Pole and Line,1435709110,Other
+204838000,102485,Pole and Line,Pole and Line,1435756484,Other
+204851000,108706,Pole and Line,Pole and Line,1435877745,Other
+204856000,103600,Longliner,Longliner,1435732933,Longliner
+204858000,127202,Pole and Line,Pole and Line,1436147050,Other
+205165000,128531,Trawler,Bottom Otter Trawler,1435709426,Trawler
+205191000,125438,Trawler,Beam Trawler,1435708891,Trawler
+205192000,116055,Trawler,Beam Trawler,1435709112,Trawler
+205243000,124904,Trawler,Beam Trawler,1435708884,Trawler
+205261000,113392,Trawler,Beam Trawler,1435709629,Trawler
+207428000,104087,Trawler,Midwater Pair Trawler,1438053782,Trawler
+207824680,111303,Trawler,Midwater Pair Trawler,1436234843,Trawler
+209212000,120521,Trawler,Bottom Otter Trawler,1435785188,Trawler
+209465000,125176,Longliner,Longliner,1435709148,Longliner
+209499000,117853,Trawler,Bottom Otter Trawler,1435935852,Trawler
+210380000,130828,Trawler,Bottom Otter Trawler,1435708839,Trawler
+210460000,124192,Longliner,Longliner,1435716703,Longliner
+210975000,121295,Longliner,Longliner,1435726919,Longliner
+211104000,103202,Trawler,Beam Trawler,1435708985,Trawler
+211131000,117067,Trawler,Beam Trawler,1435730011,Trawler
+211155000,112905,Trawler,Beam Trawler,1435708988,Trawler
+211156000,126654,Trawler,Beam Trawler,1436953248,Trawler
+211157000,127759,Trawler,Beam Trawler,1435709782,Trawler
+211158000,108092,Trawler,Beam Trawler,1439320725,Trawler
+211159000,113113,Trawler,Beam Trawler,1435893227,Trawler
+211160000,126686,Trawler,Beam Trawler,1435827057,Trawler
+211163000,127804,Trawler,Beam Trawler,1436638868,Trawler
+211164000,105007,Trawler,Beam Trawler,1435708922,Trawler
+211170000,103836,Trawler,Beam Trawler,1436112284,Trawler
+211180000,110052,Trawler,Beam Trawler,1435710137,Trawler
+211182000,129817,Trawler,Beam Trawler,1436878322,Trawler
+211187000,110398,Trawler,Beam Trawler,1435709847,Trawler
+211191000,117207,Trawler,Beam Trawler,1435776706,Trawler
+211192000,116195,Trawler,Beam Trawler,1439471353,Trawler
+211193000,132681,Trawler,Beam Trawler,1436959113,Trawler
+211196000,111663,Trawler,Beam Trawler,1435894010,Trawler
+211207270,105795,Trawler,Bottom Otter Trawler,1435709024,Trawler
+211214200,100394,Trawler,Bottom Otter Trawler,1435709347,Trawler
+211227510,124150,Trawler,Bottom Otter Trawler,1435709324,Trawler
+211232850,112709,Trawler,Bottom Otter Trawler,1435713811,Trawler
+211238930,104064,Trawler,Midwater Pair Trawler,1435708995,Trawler
+211243240,130108,Trawler,Bottom Otter Trawler,1435737473,Trawler
+211245680,119509,Trawler,Beam Trawler,1435715058,Trawler
+211265640,126244,Trawler,Beam Trawler,1437739244,Trawler
+211267780,103225,Trawler,Bottom Otter Trawler,1435709706,Trawler
+211270480,126422,Trawler,Beam Trawler,1435708842,Trawler
+211271330,123963,Trawler,Beam Trawler,1435967729,Trawler
+211272400,106293,Trawler,Beam Trawler,1435741271,Trawler
+211287590,113348,Trawler,Beam Trawler,1435717889,Trawler
+211294100,110300,Trawler,Beam Trawler,1435960420,Trawler
+211307520,110669,Trawler,Beam Trawler,1435810225,Trawler
+211312240,125600,Trawler,Beam Trawler AND Bottom Otter Trawler,1435709607,Trawler
+211313780,127711,Trawler,Beam Trawler,1435913068,Trawler
+211314600,114117,Trawler,Beam Trawler,1435966088,Trawler
+211314800,130271,Trawler,Bottom Otter Trawler,1435763491,Trawler
+211314880,104891,Trawler,BottomPairTrawler,1435709041,Trawler
+211314990,117024,Trawler,Beam Trawler,1435709083,Trawler
+211315540,104632,Trawler,Beam Trawler,1435709425,Trawler
+211315620,125413,Trawler,Beam Trawler,1435708848,Trawler
+211315630,127849,Trawler,Beam Trawler,1435709116,Trawler
+211316900,107115,Trawler,Beam Trawler,1435814039,Trawler
+211317290,113866,Trawler,Beam Trawler,1435710196,Trawler
+211319670,119702,Trawler,Beam Trawler,1435710004,Trawler
+211342220,128246,Trawler,Beam Trawler AND Bottom Otter Trawler,1435709076,Trawler
+211342400,103747,Trawler,Beam Trawler,1435708819,Trawler
+211344000,111716,Trawler,Beam Trawler,1435718127,Trawler
+211351000,100442,Trawler,Beam Trawler,1435714244,Trawler
+211370000,101415,Trawler,Beam Trawler,1436068882,Trawler
+211373830,117401,Trawler,Bottom Otter Trawler,1435708887,Trawler
+211375000,112264,Trawler,Beam Trawler,1435709688,Trawler
+211376000,101588,Trawler,Beam Trawler,1435712030,Trawler
+211386440,108149,Trawler,Beam Trawler,1435978710,Trawler
+211389510,110521,Trawler,Beam Trawler,1435719861,Trawler
+211392000,108275,Trawler,Beam Trawler,1435709424,Trawler
+211396000,104102,Trawler,Beam Trawler,1435894148,Trawler
+211400000,104507,Trawler,Bottom Otter Trawler,1435736178,Trawler
+211416000,114583,Trawler,Beam Trawler,1435869659,Trawler
+211419000,131632,Trawler,Beam Trawler,1435905345,Trawler
+211420000,116749,Trawler,Beam Trawler,1438413752,Trawler
+211426000,125285,Trawler,Beam Trawler,1435832427,Trawler
+211438440,125495,Trawler,Beam Trawler,1435709499,Trawler
+211439000,100650,Trawler,Beam Trawler,1436886024,Trawler
+211440000,130110,Trawler,Bottom Otter Trawler,1442499183,Trawler
+211450000,107987,Trawler,Bottom Pair Trawler,1441094763,Trawler
+211458000,124674,Trawler,Beam Trawler,1436013348,Trawler
+211459000,129670,Trawler,Beam Trawler,1435878045,Trawler
+211463000,109761,Trawler,Bottom Otter Trawler,1435718205,Trawler
+211466000,126487,Trawler,Beam Trawler,1435709198,Trawler
+211467840,130402,Trawler,Bottom Otter Trawler,1439896814,Trawler
+211469000,108189,Trawler,Beam Trawler,1436428991,Trawler
+211476000,106221,Trawler,Beam Trawler,1435708800,Trawler
+211477000,108238,Trawler,Bottom Otter Trawler AND BottomPairTrawler,1436963733,Trawler
+211479000,112286,Trawler,Bottom Otter Trawler,1436837042,Trawler
+211484000,103834,Trawler,Beam Trawler,1437933436,Trawler
+211486000,109138,Trawler,Beam Trawler,1437535753,Trawler
+211489000,112098,Trawler,Beam Trawler,1435708953,Trawler
+211492000,126087,Trawler,Beam Trawler,1435709256,Trawler
+211495000,115980,Trawler,Beam Trawler,1438087274,Trawler
+211501000,131774,Trawler,Beam Trawler,1435828142,Trawler
+211502000,109867,Trawler,Beam Trawler,1437562815,Trawler
+211505000,110653,Trawler,Beam Trawler,1435731381,Trawler
+211510290,104742,Trawler,Beam Trawler,1435716103,Trawler
+211516210,116361,Trawler,Bottom Otter Trawler,1440056609,Trawler
+211516260,132645,Trawler,Bottom Otter Trawler,1436242146,Trawler
+211516530,102355,Trawler,Bottom Otter Trawler,1435949587,Trawler
+211517200,119295,Trawler,Bottom Otter Trawler,1435712592,Trawler
+211517230,103783,Trawler,Bottom Otter Trawler,1435985115,Trawler
+211517810,113840,Trawler,Bottom Otter Trawler,1435726646,Trawler
+211520710,119643,Trawler,Beam Trawler,1438158386,Trawler
+211522000,129764,Trawler,Beam Trawler,1435708806,Trawler
+211526000,126032,Trawler,Beam Trawler,1435708860,Trawler
+211528000,122943,Trawler,Beam Trawler,1435855149,Trawler
+211530000,117019,Trawler,Beam Trawler,1435715993,Trawler
+211532000,106049,Trawler,Beam Trawler,1435921425,Trawler
+211535000,120156,Trawler,Bottom Otter Trawler,1435709843,Trawler
+211535140,132479,Trawler,Beam Trawler,1435730712,Trawler
+211544000,124348,Trawler,Beam Trawler,1437538792,Trawler
+211545000,107781,Trawler,Beam Trawler,1436313920,Trawler
+211546000,106742,Trawler,Beam Trawler,1435710067,Trawler
+211551000,113252,Trawler,Beam Trawler,1435708856,Trawler
+211552000,122637,Trawler,Beam Trawler,1435708916,Trawler
+211559000,120299,Trawler,Bottom Otter Trawler AND BottomPairTrawler,1435709046,Trawler
+211561000,103542,Trawler,Beam Trawler,1435709048,Trawler
+211563000,111769,Trawler,Beam Trawler,1439114224,Trawler
+211586000,123444,Trawler,Beam Trawler,1435709645,Trawler
+211590000,102409,Trawler,Beam Trawler,1435733353,Trawler
+211593750,128065,Trawler,Bottom Otter Trawler,1435794701,Trawler
+211595000,121592,Trawler,Beam Trawler,1435872563,Trawler
+211599000,125017,Trawler,Beam Trawler,1435967971,Trawler
+211605000,118985,Trawler,Beam Trawler,1435709448,Trawler
+211607000,103458,Trawler,Beam Trawler,1437706970,Trawler
+211608000,118073,Trawler,Beam Trawler,1435709107,Trawler
+211618000,101411,Trawler,Beam Trawler,1435826986,Trawler
+211623000,120643,Trawler,Beam Trawler,1435709551,Trawler
+211625000,100287,Trawler,Beam Trawler,1436323449,Trawler
+211626000,118974,Trawler,Beam Trawler,1435708953,Trawler
+211639000,103102,Trawler,Beam Trawler,1435741941,Trawler
+211647800,114529,Trawler,Beam Trawler,1435709772,Trawler
+211653680,101939,Trawler,Beam Trawler,1436259802,Trawler
+211667030,106096,Trawler,Beam Trawler,1435709044,Trawler
+211670320,107356,Trawler,Beam Trawler,1435709554,Trawler
+211671890,116005,Trawler,Beam Trawler,1435732678,Trawler
+211758000,121488,Trawler,Bottom Otter Trawler,1438611351,Trawler
+211815000,106769,Trawler,Beam Trawler,1435708871,Trawler
+211830000,129749,Trawler,Beam Trawler,1435729274,Trawler
+212470000,103860,Longliner,Longliner,1435778538,Longliner
+215000063,104138,Longliner,Longliner,1440759622,Longliner
+215000460,102203,Fishing Support Vessel,Support Vessel,1435712053,Support
+215000650,107271,Longliner,Longliner,1436237846,Longliner
+218162000,102113,Trawler,Midwater Pair Trawler,1435718317,Trawler
+218325000,128437,Trawler,Midwater Pair Trawler,1435709619,Trawler
+218359000,117950,Trawler,Midwater Pair Trawler,1435709016,Trawler
+218363000,114832,Trawler,Otter Twin Trawler,1436337597,Trawler
+218556000,131604,Trawler,Beam Trawler,1435709127,Trawler
+218799000,100576,Trawler,Bottom Otter Trawler,1435713936,Trawler
+219001189,121544,Trawler,Bottom Otter Trawler AND Beam Trawler,1435709225,Trawler
+219001588,118680,Seiner,Danish Seine,1435709156,Seiner
+219002838,107859,Trawler,Bottom Otter Trawler,1435708959,Trawler
+219004128,116181,Trawler,Bottom Otter Trawler,1436116136,Trawler
+219005286,132398,Trawler,Bottom Otter Trawler,1435708820,Trawler
+219005502,100045,Trawler,Bottom Otter Trawler,1435709001,Trawler
+219006382,100144,Trawler,Beam Trawler,1435708901,Trawler
+219007269,112165,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435927228,Trawler
+219008927,122745,Trawler,Bottom Otter Trawler,1438584007,Trawler
+219009041,120707,Trawler,Beam Trawler,1435708913,Trawler
+219009244,119226,Trawler,Bottom Otter Trawler,1435709315,Trawler
+219010989,103736,Trawler,Bottom Otter Trawler,1436433625,Trawler
+219011225,126782,Trawler,Beam Trawler,1435709072,Trawler
+219012671,110455,Trawler,Bottom Otter Trawler,1435773397,Trawler
+219013485,129052,Trawler,Bottom Otter Trawler,1435709223,Trawler
+219013538,116937,Trawler,Bottom Otter Trawler,1436116253,Trawler
+219013539,121180,Trawler,Bottom Otter Trawler,1435784895,Trawler
+219015103,132085,Trawler,Bottom Otter Trawler,1435711360,Trawler
+219016764,104031,Trawler,Bottom Otter Trawler,1435708895,Trawler
+219017843,124228,Trawler,Bottom Otter Trawler,1435708940,Trawler
+219125000,110240,Trawler,Bottom Otter Trawler,1435709753,Trawler
+219257000,129596,Trawler,Bottom Otter Trawler,1435712748,Trawler
+219328000,113987,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435709369,Trawler
+219421000,124917,Trawler,Bottom Otter Trawler,1435708910,Trawler
+219429000,130297,Seiner,Danish Seine,1435709052,Seiner
+219536000,121677,Trawler,Bottom Otter Trawler,1435719994,Trawler
+219751000,113266,Trawler,Bottom Otter Trawler,1435712784,Trawler
+219754000,102735,Trawler,Bottom Otter Trawler,1435708902,Trawler
+219799000,120864,Seiner,Danish Seine,1435712530,Seiner
+219809000,100227,Seiner,Danish Seine,1435709861,Seiner
+219862000,117662,Trawler,Bottom Otter Trawler AND Beam Trawler,1435709424,Trawler
+219956000,121104,Trawler,Bottom Otter Trawler,1435709583,Trawler
+219959000,110570,Trawler,Bottom Otter Trawler,1435709020,Trawler
+220054000,126093,Seiner,Danish Seine,1435709459,Seiner
+220128000,132191,Trawler,Bottom Otter Trawler,1435708854,Trawler
+220137000,110081,Trawler,Bottom Otter Trawler,1435806110,Trawler
+220151000,122712,Trawler,Bottom Otter Trawler,1435712977,Trawler
+220202000,132416,Trawler,Bottom Otter Trawler,1435709785,Trawler
+220247000,119907,Trawler,Midwater Pair Trawler,1435709131,Trawler
+220307000,131288,Trawler,Bottom Otter Trawler,1435709267,Trawler
+220323000,129941,Trawler,Bottom Otter Trawler,1435806304,Trawler
+220329000,113009,Trawler,Bottom Otter Trawler,1435708976,Trawler
+220338000,100607,Trawler,Bottom Otter Trawler,1435709079,Trawler
+220341000,130024,Trawler,Bottom Otter Trawler,1435955730,Trawler
+220369000,117201,Trawler,Bottom Otter Trawler,1435709899,Trawler
+220383000,102956,Trawler,Beam Trawler,1435709062,Trawler
+220461000,127564,Purse Seiner,Purse Seiner,1435712742,Seiner
+220482000,107330,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435709064,Trawler
+220616000,103919,Trawler,Bottom Otter Trawler,1435709247,Trawler
+224000390,118158,Trawler,Bottom Otter Trawler,1435710406,Trawler
+224002820,115701,Fishing Support Vessel,Support Vessel(BB / PS),1438073335,Support
+224003580,123539,Purse Seiner,Purse Seiner,1435709447,Seiner
+224004000,102164,Trawler,Bottom Otter Trawler,1437017512,Trawler
+224004420,130350,Purse Seiner,Purse Seiner,1435709641,Seiner
+224004950,121144,Trawler,Bottom Otter Trawler,1435709782,Trawler
+224005250,103480,Longliner,Longliner,1436704454,Longliner
+224005270,115698,Trawler,Bottom Otter Trawler,1435725551,Trawler
+224005790,110533,Longliner,Longliner,1435712954,Longliner
+224005860,115351,Purse Seiner,Purse Seiner,1436843440,Seiner
+224006570,124514,Purse Seiner,Purse Seiner,1435724934,Seiner
+224007230,115862,Purse Seiner,Purse Seiner,1441806461,Seiner
+224007840,100262,Trawler,Bottom Otter Trawler,1435719867,Trawler
+224008640,128206,Purse Seiner,Purse Seiner,1435714162,Seiner
+224009750,119182,Purse Seiner,Purse Seiner,1435786206,Seiner
+224009880,113104,Trawler,Bottom Otter Trawler,1435734800,Trawler
+224010000,111466,Longliner,Longliner,1435709069,Longliner
+224010120,102408,Longliner,Longliner,1435710182,Longliner
+224010630,107230,Trawler,Bottom Otter Trawler,1438077020,Trawler
+224010920,125874,Trawler,Bottom Otter Trawler,1435723052,Trawler
+224010950,103527,Trawler,Bottom Otter Trawler,1435724375,Trawler
+224010960,105470,Trawler,Bottom Otter Trawler,1435722879,Trawler
+224011110,120815,Purse Seiner,Purse Seiner,1435725043,Seiner
+224011150,115374,Trawler,Bottom Otter Trawler,1435723197,Trawler
+224011160,103603,Trawler,Bottom Otter Trawler,1435723054,Trawler
+224011990,113292,Longliner,Longliner,1435818222,Longliner
+224012850,124641,Purse Seiner,Purse Seiner,1435708943,Seiner
+224012860,129213,Trawler,Bottom Otter Trawler,1435729104,Trawler
+224012890,108141,Purse Seiner,Purse Seiner,1435709533,Seiner
+224013020,110603,Trawler,Bottom Otter Trawler,1435720385,Trawler
+224013090,110024,Trawler,Trawler,1435709620,Trawler
+224013220,131770,Trawler,Trawler,1435709475,Trawler
+224013440,120039,Pole and Line,Handliner,1436073784,Other
+224013710,117757,Trawler,Bottom Otter Trawler,1435709399,Trawler
+224014270,122162,Trawler,Bottom Otter Trawler,1435725991,Trawler
+224014440,106263,Trawler,Bottom Otter Trawler,1435718875,Trawler
+224014460,122797,Trawler,Bottom Otter Trawler,1435718234,Trawler
+224014490,102178,Trawler,Bottom Otter Trawler,1435805646,Trawler
+224014550,114844,Trawler,Bottom Otter Trawler,1435722856,Trawler
+224015550,114947,Longliner,Tuna longliner,1435720205,Longliner
+224016530,122648,Longliner,Longliner,1436985011,Longliner
+224016630,121637,Purse Seiner,Purse Seiner,1435712155,Seiner
+224016930,120019,Longliner,Longliner,1435747136,Longliner
+224017000,131785,Longliner,Tuna longliner,1435720240,Longliner
+224017120,108777,Purse Seiner,Purse Seiner,1435709169,Seiner
+224017280,114919,Trawler,Bottom Otter Trawler,1441168255,Trawler
+224017830,123632,Longliner,Longliner,1435889494,Longliner
+224018390,105833,Purse Seiner,Purse Seiner,1435991512,Seiner
+224018440,115322,Longliner,Longliner,1435749613,Longliner
+224018890,131864,Trawler,Bottom Otter Trawler,1435718461,Trawler
+224019680,116016,Purse Seiner,Purse Seiner,1435709544,Seiner
+224019690,102762,Purse Seiner,Purse Seiner,1435746622,Seiner
+224020000,107180,Longliner,Longliner,1435718954,Longliner
+224020170,128265,Trawler,Bottom Otter Trawler,1435759888,Trawler
+224020340,107185,Longliner,Longliner,1435711543,Longliner
+224020390,129489,Purse Seiner,Purse Seiner,1435708943,Seiner
+224020840,120200,Purse Seiner,Purse Seiner,1435708941,Seiner
+224020890,122420,Longliner,Longliner,1435709018,Longliner
+224020990,127882,Purse Seiner,Purse Seiner,1435709554,Seiner
+224021580,109191,Purse Seiner,Purse Seiner,1435812711,Seiner
+224021640,130451,Purse Seiner,Purse Seiner,1435759432,Seiner
+224021650,104165,Purse Seiner,Purse Seiner,1435712380,Seiner
+224021860,129042,Trawler,Bottom Otter Trawler,1435720047,Trawler
+224021940,114789,Purse Seiner,Purse Seiner,1435709211,Seiner
+224022140,118809,Trawler,Bottom Otter Trawler,1435719651,Trawler
+224022170,131554,Trawler,Bottom Otter Trawler,1435709165,Trawler
+224022330,132400,Purse Seiner,Purse Seiner,1435714780,Seiner
+224022620,132286,Purse Seiner,Purse Seiner,1435710495,Seiner
+224022730,125246,Purse Seiner,Purse Seiner,1435710046,Seiner
+224022760,104059,Pole and Line,Handliner,1436006264,Other
+224022810,112087,Purse Seiner,Purse Seiner,1435753315,Seiner
+224022910,118015,Longliner,Longliner,1441716029,Longliner
+224023480,130961,Purse Seiner,Purse Seiner,1435708942,Seiner
+224023970,130217,Purse Seiner,Purse Seiner,1435709397,Seiner
+224024450,102508,Longliner,Longliner,1437606669,Longliner
+224024540,117891,Purse Seiner,Purse Seiner,1435708989,Seiner
+224025780,114318,Trawler,Bottom Otter Trawler,1435730085,Trawler
+224025970,116903,Purse Seiner,Purse Seiner,1435716379,Seiner
+224026690,120946,Trawler,Bottom Otter Trawler,1435727146,Trawler
+224026860,126359,Trawler,Trawler,1435746828,Trawler
+224027250,105844,Trawler,Bottom Otter Trawler,1435708997,Trawler
+224027520,123858,Trawler,Bottom Otter Trawler,1435709483,Trawler
+224027550,125143,Trawler,Bottom Otter Trawler,1435720961,Trawler
+224027970,132540,Trawler,Bottom Otter Trawler,1435717570,Trawler
+224028550,114973,Purse Seiner,Purse Seiner,1435709739,Seiner
+224028630,128566,Pole and Line,Handliner,1436258855,Other
+224029580,114065,Purse Seiner,Purse Seiner,1435713571,Seiner
+224029760,112340,Longliner,Longliner,1435713464,Longliner
+224029830,108897,Purse Seiner,Purse Seiner,1435712414,Seiner
+224030940,127152,Gillnetter,Gillnetter,1435924109,Other
+224031340,124693,Longliner,Longliner,1435709347,Longliner
+224031680,128370,Purse Seiner,Purse Seiner,1435712964,Seiner
+224031990,103164,Trawler,Bottom Otter Trawler,1439379667,Trawler
+224032470,107825,Purse Seiner,Purse Seiner,1435708998,Seiner
+224040470,106552,Purse Seiner,Purse Seiner,1436128740,Seiner
+224041540,127975,Purse Seiner,Purse Seiner,1435759460,Seiner
+224042740,116654,Purse Seiner,Purse Seiner,1435709698,Seiner
+224042880,110903,Purse Seiner,Purse Seiner,1435716556,Seiner
+224043370,128259,Purse Seiner,Purse Seiner,1435709665,Seiner
+224043560,109054,Longliner,Longliner,1435713606,Longliner
+224044870,129280,Longliner,Longliner,1435712843,Longliner
+224045260,102357,Longliner,Longliner,1435713466,Longliner
+224045930,128095,Longliner,Longliner,1435713560,Longliner
+224046360,108109,Purse Seiner,Purse Seiner,1435725380,Seiner
+224046430,126225,Trawler,Bottom Otter Trawler,1435712975,Trawler
+224047270,124067,Purse Seiner,Purse Seiner,1435710595,Seiner
+224047360,124605,Trawler,Bottom Otter Trawler,1435711105,Trawler
+224047430,107173,Trawler,Trawler,1435708804,Trawler
+224047490,113577,Trawler,Bottom Otter Trawler,1435719741,Trawler
+224047990,129227,Longliner,Longliner,1435713454,Longliner
+224048150,117694,Longliner,Longliner,1435770239,Longliner
+224048290,129423,Trawler,Bottom Otter Trawler,1435709338,Trawler
+224048840,131869,Purse Seiner,Purse Seiner,1435777567,Seiner
+224048880,129688,Purse Seiner,Purse Seiner,1435709102,Seiner
+224049380,100898,Trawler,Bottom Otter Trawler,1439364398,Trawler
+224049860,132457,Longliner,Longliner,1435952663,Longliner
+224050230,126434,Purse Seiner,Purse Seiner,1436130408,Seiner
+224050240,101387,Purse Seiner,Purse Seiner,1436128539,Seiner
+224050990,128712,Trawler,Bottom Otter Trawler,1435709512,Trawler
+224051160,122389,Purse Seiner,Purse Seiner,1435713352,Seiner
+224051330,116183,Trawler,Bottom Otter Trawler,1435716201,Trawler
+224051560,119825,Purse Seiner,Purse Seiner,1435713370,Seiner
+224051650,132428,Purse Seiner,Purse Seiner,1435713508,Seiner
+224052260,102031,Trawler,Bottom Otter Trawler,1435710906,Trawler
+224052370,124018,Longliner,Longliner,1435713700,Longliner
+224052850,109281,Purse Seiner,Purse Seiner,1435708913,Seiner
+224053240,132257,Trawler,Bottom Otter Trawler,1441103143,Trawler
+224053530,124049,Purse Seiner,Purse Seiner,1435711064,Seiner
+224053650,124857,Longliner,Longliner,1435708941,Longliner
+224055180,104416,Purse Seiner,Purse Seiner,1435709382,Seiner
+224055240,111725,Longliner,Longliner,1435818129,Longliner
+224055830,104408,Purse Seiner,Purse Seiner,1435709081,Seiner
+224055870,115122,Trawler,Bottom Otter Trawler,1435721373,Trawler
+224057370,101096,Longliner,Longliner,1435709118,Longliner
+224057830,130765,Gillnetter,Gillnetter,1435709632,Other
+224057890,123139,Purse Seiner,Purse Seiner,1435709121,Seiner
+224057930,126977,Trawler,Bottom Otter Trawler,1435720437,Trawler
+224057990,128633,Trawler,Bottom Otter Trawler,1435710098,Trawler
+224059230,130538,Purse Seiner,Purse Seiner,1435709546,Seiner
+224060150,115485,Purse Seiner,Purse Seiner,1435709687,Seiner
+224060850,103719,Purse Seiner,Purse Seiner,1435709404,Seiner
+224063780,132011,Purse Seiner,Purse Seiner,1435709274,Seiner
+224063790,122067,Longliner,Longliner,1435708846,Longliner
+224064930,125381,Trawler,Bottom Otter Trawler,1436183374,Trawler
+224065000,108635,Trawler,Trawler,1435708880,Trawler
+224066570,101809,Trawler,Bottom Otter Trawler,1435827239,Trawler
+224066580,105262,Longliner,Longliner,1435734338,Longliner
+224066650,119358,Trawler,Bottom Otter Trawler,1435724271,Trawler
+224066890,128134,Trawler,Bottom Otter Trawler,1435718396,Trawler
+224067130,118768,Longliner,Longliner,1435759453,Longliner
+224067470,109445,Trawler,Bottom Otter Trawler,1435731142,Trawler
+224067670,126646,Trawler,Bottom Otter Trawler,1435708965,Trawler
+224068000,112437,Longliner,Longliner,1435732074,Longliner
+224068340,112517,Trawler,Bottom Otter Trawler,1435710447,Trawler
+224068560,115968,Purse Seiner,Purse Seiner,1436129928,Seiner
+224069140,127890,Trawler,Bottom Otter Trawler,1440608840,Trawler
+224069550,105628,Purse Seiner,Purse Seiner,1435709751,Seiner
+224069760,107327,Longliner,Longliner,1435709626,Longliner
+224069870,106568,Trawler,Bottom Otter Trawler,1435718220,Trawler
+224069960,110850,Longliner,Longliner,1435713472,Longliner
+224069970,108536,Longliner,Longliner,1436245848,Longliner
+224070140,109428,Trawler,Bottom Otter Trawler,1435903643,Trawler
+224070150,130073,Trawler,Bottom Otter Trawler,1435720770,Trawler
+224070380,102215,Trawler,Bottom Otter Trawler,1435724903,Trawler
+224070440,107136,Trawler,Bottom Otter Trawler,1435728124,Trawler
+224070490,122769,Trawler,Bottom Otter Trawler,1435731197,Trawler
+224070630,120849,Trawler,Bottom Otter Trawler,1435722248,Trawler
+224071000,121311,Longliner,Longliner,1435713650,Longliner
+224071650,105905,Purse Seiner,Purse Seiner,1435709306,Seiner
+224071880,130818,Trawler,Bottom Otter Trawler,1435715961,Trawler
+224071980,115714,Purse Seiner,Purse Seiner,1435709496,Seiner
+224072270,119590,Longliner,Longliner,1435709782,Longliner
+224072280,107188,Longliner,Longliner,1435773077,Longliner
+224072470,106859,Purse Seiner,Purse Seiner,1435729336,Seiner
+224072760,128978,Purse Seiner,Purse Seiner,1435708916,Seiner
+224072890,113086,Trawler,Bottom Otter Trawler,1435708883,Trawler
+224072990,101463,Purse Seiner,Purse Seiner,1435708849,Seiner
+224073390,121358,Trawler,Bottom Otter Trawler,1435717907,Trawler
+224073580,131898,Purse Seiner,Purse Seiner,1435709180,Seiner
+224073630,113809,Purse Seiner,Purse Seiner,1435713642,Seiner
+224073830,120271,Trawler,Bottom Otter Trawler,1435718114,Trawler
+224073960,128119,Purse Seiner,Purse Seiner,1435774293,Seiner
+224074180,130904,Pole and Line,Pole and Line,1435713070,Other
+224074660,100060,Trawler,Bottom Otter Trawler,1436178081,Trawler
+224074680,107108,Trawler,Bottom Otter Trawler,1435718798,Trawler
+224075000,125313,Trawler,Trawler,1435709483,Trawler
+224075480,101916,Trawler,Bottom Otter Trawler,1435718915,Trawler
+224076000,128282,Longliner,Longliner,1435712705,Longliner
+224076530,102753,Trawler,Bottom Otter Trawler,1435732621,Trawler
+224076970,115440,Purse Seiner,Purse Seiner,1435709342,Seiner
+224077140,102728,Purse Seiner,Purse Seiner,1435726798,Seiner
+224077240,123674,Purse Seiner,Purse Seiner,1435709534,Seiner
+224077440,125079,Purse Seiner,Purse Seiner,1435709989,Seiner
+224077590,103808,Purse Seiner,Purse Seiner,1435769653,Seiner
+224078290,107550,Purse Seiner,Purse Seiner,1435708969,Seiner
+224078780,129002,Trawler,Bottom Otter Trawler,1435717047,Trawler
+224078870,108844,Trawler,Bottom Otter Trawler,1435714144,Trawler
+224079240,116228,Purse Seiner,Purse Seiner,1436200419,Seiner
+224079580,100371,Trawler,Bottom Otter Trawler,1435716000,Trawler
+224080660,127881,Purse Seiner,Purse Seiner,1435787451,Seiner
+224080680,115555,Trawler,Bottom Otter Trawler,1436232255,Trawler
+224080860,128290,Purse Seiner,Purse Seiner,1435709411,Seiner
+224080990,124676,Trawler,Bottom Otter Trawler,1435729210,Trawler
+224081130,100996,Longliner,Longliner,1435753210,Longliner
+224081290,120047,Pole and Line,Handliner,1438090088,Other
+224081430,122077,Longliner,Longliner,1435709395,Longliner
+224081450,129664,Purse Seiner,Purse Seiner,1435709368,Seiner
+224081690,132249,Longliner,Longliner,1435709448,Longliner
+224081790,124656,Longliner,Longliner,1435744410,Longliner
+224081820,114011,Trawler,Bottom Otter Trawler,1436155533,Trawler
+224081840,112616,Longliner,Longliner,1435713506,Longliner
+224082230,128330,Trawler,Bottom Otter Trawler,1435851061,Trawler
+224082360,102638,Trawler,Bottom Otter Trawler,1435709729,Trawler
+224082580,105486,Pole and Line,Pole and Line,1435713187,Other
+224082850,122830,Purse Seiner,Purse Seiner,1435709639,Seiner
+224082870,126739,Purse Seiner,Purse Seiner,1435709731,Seiner
+224083240,113450,Trawler,Bottom Otter Trawler,1435729989,Trawler
+224083520,108921,Purse Seiner,Purse Seiner,1435709225,Seiner
+224083790,116433,Trawler,Bottom Otter Trawler,1435728566,Trawler
+224084460,105751,Trawler,Bottom Otter Trawler,1435716828,Trawler
+224084470,107117,Trawler,Bottom Otter Trawler,1435747033,Trawler
+224084620,104426,Purse Seiner,Purse Seiner,1435709677,Seiner
+224085120,103933,Purse Seiner,Purse Seiner,1435709114,Seiner
+224085250,105005,Purse Seiner,Purse Seiner,1435828321,Seiner
+224085560,120518,Purse Seiner,Purse Seiner,1435742985,Seiner
+224085740,112515,Trawler,Bottom Otter Trawler,1441609823,Trawler
+224085950,115052,Purse Seiner,Purse Seiner,1435767951,Seiner
+224085980,111749,Trawler,Bottom Otter Trawler,1435711070,Trawler
+224086520,117109,Trawler,Bottom Otter Trawler,1435728369,Trawler
+224086550,117122,Trawler,Bottom Otter Trawler,1435710039,Trawler
+224086630,110877,Trawler,Bottom Otter Trawler,1435719561,Trawler
+224087260,123512,Purse Seiner,Purse Seiner,1435710739,Seiner
+224087460,100963,Trawler,Bottom Otter Trawler,1435727513,Trawler
+224087530,117400,Trawler,Bottom Otter Trawler,1435723853,Trawler
+224087540,116454,Trawler,Bottom Otter Trawler,1435730588,Trawler
+224087870,124022,Trawler,Bottom Otter Trawler,1435719264,Trawler
+224088000,121512,Purse Seiner,Tuna purse seiner,1435887874,Seiner
+224088370,115989,Trawler,Bottom Otter Trawler,1435727800,Trawler
+224088740,122169,Purse Seiner,Purse Seiner,1435708934,Seiner
+224089260,114456,Trawler,Trawler,1435716050,Trawler
+224089290,106012,Trawler,Bottom Otter Trawler,1435723731,Trawler
+224090170,109710,Purse Seiner,Purse Seiner,1435709467,Seiner
+224090290,107093,Purse Seiner,Purse Seiner,1435709116,Seiner
+224090880,110162,Purse Seiner,Purse Seiner,1435709366,Seiner
+224090890,117300,Purse Seiner,Purse Seiner,1435709062,Seiner
+224091680,123707,Trawler,Bottom Otter Trawler,1435709569,Trawler
+224092140,132248,Trawler,Bottom Otter Trawler,1435714883,Trawler
+224092830,115278,Trawler,Bottom Otter Trawler,1436248250,Trawler
+224093450,113636,Trawler,Bottom Otter Trawler,1435714262,Trawler
+224093460,108215,Trawler,Trawler,1435717713,Trawler
+224094160,105900,Purse Seiner,Purse Seiner,1435708894,Seiner
+224094320,127600,Trawler,Bottom Otter Trawler,1435718472,Trawler
+224094570,131228,Trawler,Bottom Otter Trawler,1435709031,Trawler
+224094870,124874,Pole and Line,Handliner,1435808785,Other
+224095140,109808,Trawler,Bottom Otter Trawler,1435709114,Trawler
+224095170,126006,Purse Seiner,Purse Seiner,1435710046,Seiner
+224095230,100047,Trawler,Bottom Otter Trawler,1435724135,Trawler
+224095390,113503,Trawler,Bottom Otter Trawler,1435723801,Trawler
+224095430,120819,Trawler,Bottom Otter Trawler,1435731031,Trawler
+224095720,104558,Fishing Support Vessel,Support Vessel,1435709135,Support
+224095770,101794,Trawler,Bottom Otter Trawler,1435727417,Trawler
+224096290,104847,Trawler,Bottom Otter Trawler,1435711387,Trawler
+224096770,130615,Purse Seiner,Purse Seiner,1435753385,Seiner
+224096950,101033,Trawler,Bottom Otter Trawler,1435715867,Trawler
+224097670,102590,Trawler,Bottom Otter Trawler,1435725374,Trawler
+224097970,122363,Trawler,Trawler,1435713442,Trawler
+224098250,111119,Longliner,Longliner,1435713294,Longliner
+224098390,108034,Trawler,Bottom Otter Trawler,1436100548,Trawler
+224098420,124481,Longliner,Longliner,1435753022,Longliner
+224098640,121495,Longliner,Longliner,1435711087,Longliner
+224098760,107759,Purse Seiner,Purse Seiner,1435709667,Seiner
+224098780,125887,Purse Seiner,Purse Seiner,1436130024,Seiner
+224098870,123373,Trawler,Bottom Otter Trawler,1435732698,Trawler
+224099450,129503,Longliner,Longliner,1435713737,Longliner
+224099470,118507,Longliner,Longliner,1435713613,Longliner
+224099560,132442,Longliner,Longliner,1435708906,Longliner
+224100160,104003,Purse Seiner,Purse Seiner,1435710423,Seiner
+224100180,109816,Trawler,Trawler,1435713367,Trawler
+224100590,105361,Purse Seiner,Purse Seiner,1435709715,Seiner
+224100920,108539,Purse Seiner,Purse Seiner,1435716303,Seiner
+224101860,117526,Purse Seiner,Purse Seiner,1435742270,Seiner
+224101940,123009,Longliner,Longliner,1435713338,Longliner
+224101970,109650,Purse Seiner,Purse Seiner,1435711846,Seiner
+224101980,107537,Purse Seiner,Purse Seiner,1435709555,Seiner
+224102000,102084,Purse Seiner,Purse Seiner,1435709410,Seiner
+224102530,103160,Purse Seiner,Purse Seiner,1435725007,Seiner
+224102850,131495,Trawler,Bottom Otter Trawler,1435709418,Trawler
+224103270,113388,Trawler,Bottom Otter Trawler,1435725540,Trawler
+224103490,103944,Trawler,Bottom Otter Trawler,1435709496,Trawler
+224103570,106508,Purse Seiner,Purse Seiner,1435709475,Seiner
+224103750,117920,Purse Seiner,Purse Seiner,1435835590,Seiner
+224103970,131003,Longliner,Longliner,1435839981,Longliner
+224104170,117338,Trawler,Bottom Otter Trawler,1435721050,Trawler
+224104180,108999,Trawler,Bottom Otter Trawler,1435712848,Trawler
+224104240,106744,Trawler,Bottom Otter Trawler,1435729561,Trawler
+224104380,118717,Trawler,Bottom Otter Trawler,1435726988,Trawler
+224104420,114595,Purse Seiner,Purse Seiner,1435784997,Seiner
+224104430,132653,Trawler,Bottom Otter Trawler,1435716184,Trawler
+224104540,120411,Purse Seiner,Purse Seiner,1435709593,Seiner
+224104960,127747,Purse Seiner,Purse Seiner,1436524217,Seiner
+224105460,122161,Trawler,Bottom Otter Trawler,1435711662,Trawler
+224105580,121328,Purse Seiner,Purse Seiner,1435709349,Seiner
+224105890,111946,Purse Seiner,Purse Seiner,1435719115,Seiner
+224105920,126249,Trawler,Trawler,1435709219,Trawler
+224106000,128763,Trawler,Bottom Otter Trawler,1436292436,Trawler
+224106140,130666,Purse Seiner,Purse Seiner,1435708903,Seiner
+224106240,109738,Trawler,Bottom Otter Trawler,1435720468,Trawler
+224106260,100383,Purse Seiner,Purse Seiner,1435713398,Seiner
+224106840,116845,Trawler,Bottom Otter Trawler,1435730202,Trawler
+224106860,129652,Trawler,Bottom Otter Trawler,1435714916,Trawler
+224106880,110480,Trawler,Bottom Otter Trawler,1435727015,Trawler
+224106940,115838,Purse Seiner,Purse Seiner,1435713558,Seiner
+224106950,100577,Purse Seiner,Purse Seiner,1435720196,Seiner
+224107670,115130,Purse Seiner,Purse Seiner,1435709002,Seiner
+224107760,115758,Trawler,Bottom Otter Trawler,1435711484,Trawler
+224107990,114374,Purse Seiner,Purse Seiner,1435708902,Seiner
+224108450,116563,Purse Seiner,Purse Seiner,1435709179,Seiner
+224108670,100662,Purse Seiner,Purse Seiner,1435759381,Seiner
+224110000,120368,Longliner,Longliner,1435713260,Longliner
+224111960,129929,Trawler,Bottom Otter Trawler,1435719525,Trawler
+224112370,117131,Longliner,Longliner,1435708945,Longliner
+224113270,115715,Longliner,Longliner,1435713641,Longliner
+224114750,111209,Longliner,Longliner,1435759466,Longliner
+224115790,129931,Purse Seiner,Purse Seiner,1435709225,Seiner
+224115880,132438,Longliner,Longliner,1435713429,Longliner
+224116380,126659,Longliner,Longliner,1435893222,Longliner
+224116420,106881,Purse Seiner,Purse Seiner,1435709626,Seiner
+224117340,115852,Trawler,Bottom Otter Trawler,1435718667,Trawler
+224118650,131498,Purse Seiner,Purse Seiner,1435709784,Seiner
+224119550,114568,Purse Seiner,Purse Seiner,1435709463,Seiner
+224120000,107254,Longliner,Longliner,1435712858,Longliner
+224120850,125235,Longliner,Longliner,1435709667,Longliner
+224120870,106433,Longliner,Longliner,1435708959,Longliner
+224121650,117745,Trawler,Trawler,1435711846,Trawler
+224121760,127561,Trawler,Bottom Otter Trawler,1435727696,Trawler
+224122930,125912,Trawler,Bottom Otter Trawler,1441092402,Trawler
+224123490,101404,Trawler,Bottom Otter Trawler,1435709554,Trawler
+224123720,121564,Trawler,Trawler,1435785961,Trawler
+224123730,101302,Trawler,Bottom Otter Trawler,1435708979,Trawler
+224124000,123148,Fishing Support Vessel,Fish Carrier,1435709249,Support
+224124190,121465,Purse Seiner,Purse Seiner,1435709072,Seiner
+224124260,101223,Trawler,Bottom Otter Trawler,1436150078,Trawler
+224125140,109387,Trawler,Trawler,1435708852,Trawler
+224127180,116647,Purse Seiner,Purse Seiner,1435709304,Seiner
+224127360,121150,Trawler,Bottom Otter Trawler,1435723785,Trawler
+224128670,104393,Trawler,Bottom Otter Trawler,1435754077,Trawler
+224129890,102635,Trawler,Bottom Otter Trawler,1436951510,Trawler
+224130000,114492,Longliner,Longliner,1435722320,Longliner
+224130870,130327,Longliner,Longliner,1435725071,Longliner
+224131890,127536,Trawler,Bottom Otter Trawler,1435718569,Trawler
+224132000,121288,Longliner,Longliner,1435724271,Longliner
+224132570,121881,Trawler,Bottom Otter Trawler,1439011342,Trawler
+224132580,124994,Trawler,Bottom Otter Trawler,1440059771,Trawler
+224132850,112036,Purse Seiner,Purse Seiner,1435709200,Seiner
+224133000,118784,Trawler,Bottom Otter Trawler,1435769260,Trawler
+224133306,110610,Trawler,Bottom Otter Trawler,1435725710,Trawler
+224133770,102104,Trawler,Bottom Otter Trawler,1435718148,Trawler
+224134120,103937,Trawler,Bottom Otter Trawler,1436390685,Trawler
+224134380,111432,Trawler,Bottom Otter Trawler,1435717675,Trawler
+224134470,103021,Longliner,Longliner,1435709564,Longliner
+224134550,111810,Trawler,Trawler,1435709385,Trawler
+224135000,131874,Longliner,Longliner,1435765185,Longliner
+224135590,119904,Trawler,Bottom Otter Trawler,1435724167,Trawler
+224136380,123492,Trawler,Trawler,1435709456,Trawler
+224136470,126411,Purse Seiner,Purse Seiner,1435759395,Seiner
+224136960,127533,Trawler,Bottom Otter Trawler,1436866083,Trawler
+224137290,110654,Longliner,Longliner,1435708878,Longliner
+224137530,117693,Purse Seiner,Purse Seiner,1435709375,Seiner
+224137880,100015,Purse Seiner,Purse Seiner,1435709202,Seiner
+224138320,123227,Purse Seiner,Purse Seiner,1435709121,Seiner
+224138680,127035,Purse Seiner,Purse Seiner,1435715901,Seiner
+224141360,113291,Purse Seiner,Purse Seiner,1435859381,Seiner
+224141830,109888,Purse Seiner,Purse Seiner,1435708945,Seiner
+224142580,124135,Purse Seiner,Purse Seiner,1435709411,Seiner
+224143730,103941,Longliner,Longliner,1435714394,Longliner
+224143980,121715,Trawler,Bottom Otter Trawler,1435709041,Trawler
+224144580,102723,Trawler,Bottom Otter Trawler,1435710884,Trawler
+224144590,113731,Trawler,Bottom Otter Trawler,1435718294,Trawler
+224144750,126745,Longliner,Longliner,1435713520,Longliner
+224144890,100682,Trawler,Bottom Otter Trawler,1435719639,Trawler
+224146950,112076,Purse Seiner,Purse Seiner,1435709102,Seiner
+224148470,108750,Purse Seiner,Purse Seiner,1435709132,Seiner
+224149650,127007,Purse Seiner,Purse Seiner,1435709202,Seiner
+224150760,129382,Trawler,Bottom Otter Trawler,1435716623,Trawler
+224151990,106522,Purse Seiner,Purse Seiner,1435709361,Seiner
+224152140,127665,Purse Seiner,Purse Seiner,1435709195,Seiner
+224152340,130530,Longliner,Longliner,1435713427,Longliner
+224153130,120347,Longliner,Longliner,1435718796,Longliner
+224154000,129397,Longliner,Tuna longliner,1435710602,Longliner
+224155590,117814,Purse Seiner,Purse Seiner,1435709558,Seiner
+224156000,114379,Longliner,Tuna longliner,1436415786,Longliner
+224156570,123022,Purse Seiner,Purse Seiner,1435709538,Seiner
+224157000,101976,Longliner,Longliner,1436887541,Longliner
+224157780,123755,Trawler,Bottom Otter Trawler,1435709671,Trawler
+224160000,132186,Longliner,Longliner,1435708931,Longliner
+224161140,128459,Longliner,Longliner,1435713458,Longliner
+224162880,121849,Purse Seiner,Purse Seiner,1436204867,Seiner
+224166160,127211,Longliner,Longliner,1435720232,Longliner
+224168000,109830,Trawler,Bottom Otter Trawler,1435709457,Trawler
+224170000,105685,Longliner,Longliner,1435800183,Longliner
+224171450,109709,Trawler,Bottom Otter Trawler,1435723781,Trawler
+224172830,121653,Purse Seiner,Purse Seiner,1435885871,Seiner
+224172950,103980,Pole and Line,Handliner,1435753247,Other
+224173000,103240,Longliner,Longliner,1435713601,Longliner
+224174930,115800,Purse Seiner,Purse Seiner,1436424399,Seiner
+224175190,111026,Purse Seiner,Purse Seiner,1435782364,Seiner
+224175430,114244,Longliner,Longliner,1435709667,Longliner
+224176370,109481,Longliner,Longliner,1436288906,Longliner
+224176390,119072,Trawler,Bottom Otter Trawler,1435709165,Trawler
+224176442,108570,Longliner,Longliner,1436039680,Longliner
+224177240,124561,Purse Seiner,Purse Seiner,1435708832,Seiner
+224177460,127869,Purse Seiner,Purse Seiner,1435712518,Seiner
+224178000,112290,Trawler,Bottom Otter Trawler,1435797144,Trawler
+224178660,132135,Pole and Line,Handliner,1435713318,Other
+224180740,113542,Purse Seiner,Purse Seiner,1435709397,Seiner
+224181230,120023,Trawler,Trawler,1435708819,Trawler
+224181530,124584,Purse Seiner,Purse Seiner,1435718724,Seiner
+224183670,122488,Longliner,Longliner,1436803542,Longliner
+224186000,102511,Longliner,Longliner,1435709720,Longliner
+224189000,123668,Longliner,Tuna longliner,1435718915,Longliner
+224189260,129908,Purse Seiner,Purse Seiner,1435709156,Seiner
+224190680,126537,Purse Seiner,Purse Seiner,1435711251,Seiner
+224191750,111385,Purse Seiner,Purse Seiner,1435708871,Seiner
+224193790,109448,Purse Seiner,Purse Seiner,1436001868,Seiner
+224196000,126911,Longliner,Tuna longliner,1437187967,Longliner
+224196160,130517,Trawler,Bottom Otter Trawler,1435708810,Trawler
+224197150,129987,Longliner,Longliner,1435734106,Longliner
+224198440,130698,Purse Seiner,Purse Seiner,1435709324,Seiner
+224205420,128113,Trawler,Bottom Otter Trawler,1435759903,Trawler
+224208290,106655,Longliner,Longliner,1435712816,Longliner
+224208650,122053,Trawler,Bottom Otter Trawler,1435837705,Trawler
+224209000,113536,Trawler,Bottom Otter Trawler,1435735565,Trawler
+224209630,131201,Purse Seiner,Purse Seiner,1435709014,Seiner
+224210180,113856,Trawler,Bottom Otter Trawler,1436787644,Trawler
+224211440,122338,Trawler,Bottom Otter Trawler,1435718728,Trawler
+224215230,132037,Purse Seiner,Purse Seiner,1435709060,Seiner
+224217120,123371,Purse Seiner,Purse Seiner,1435780388,Seiner
+224218930,131125,Gillnetter,Gillnetter,1435802482,Other
+224220140,129186,Trawler,Bottom Otter Trawler,1435719545,Trawler
+224220670,110139,Purse Seiner,Purse Seiner,1435709460,Seiner
+224221320,113003,Purse Seiner,Purse Seiner,1435708919,Seiner
+224223630,123597,Purse Seiner,Purse Seiner,1435714774,Seiner
+224225320,113330,Trawler,Bottom Otter Trawler,1435709705,Trawler
+224229000,122235,Trawler,Bottom Otter Trawler,1435709135,Trawler
+224231980,120957,Trawler,Bottom Otter Trawler,1435715452,Trawler
+224233000,125428,Longliner,Longliner,1440335239,Longliner
+224233470,122516,Trawler,Bottom Otter Trawler,1435727440,Trawler
+224233730,123763,Trawler,Bottom Otter Trawler,1435749641,Trawler
+224234720,112789,Purse Seiner,Purse Seiner,1435715250,Seiner
+224237180,105317,Purse Seiner,Purse Seiner,1435709093,Seiner
+224238430,129875,Trawler,Bottom Otter Trawler,1439978975,Trawler
+224239860,105384,Trawler,Bottom Otter Trawler,1435721236,Trawler
+224239920,122079,Trawler,Bottom Otter Trawler,1435722402,Trawler
+224241000,120044,Longliner,Longliner,1435713541,Longliner
+224241390,128304,Trawler,Bottom Otter Trawler,1435720439,Trawler
+224242200,126719,Purse Seiner,Purse Seiner,1435709018,Seiner
+224244880,127830,Purse Seiner,Purse Seiner,1435719187,Seiner
+224245280,129519,Trawler,Bottom Otter Trawler,1435720371,Trawler
+224249780,120168,Trawler,Bottom Otter Trawler,1435719347,Trawler
+224250000,107797,Longliner,Longliner,1435713629,Longliner
+224250430,127173,Trawler,Bottom Otter Trawler,1435723307,Trawler
+224252450,113230,Trawler,Bottom Otter Trawler,1437119180,Trawler
+224253000,122390,Longliner,Longliner,1436174611,Longliner
+224256220,124713,Purse Seiner,Purse Seiner,1435709799,Seiner
+224259150,122416,Trawler,Bottom Otter Trawler,1435717265,Trawler
+224259220,124127,Trawler,Trawler,1438073810,Trawler
+224260340,112300,Trawler,Bottom Otter Trawler,1435722603,Trawler
+224261000,110573,Longliner,Longliner,1435713023,Longliner
+224262260,107988,Purse Seiner,Purse Seiner,1435709094,Seiner
+224264670,128348,Purse Seiner,Purse Seiner,1435709009,Seiner
+224265670,112054,Trawler,Bottom Otter Trawler,1435719142,Trawler
+224267000,112016,Longliner,Longliner,1435712404,Longliner
+224268000,106495,Longliner,Longliner,1435714564,Longliner
+224270370,110291,Purse Seiner,Purse Seiner,1435776176,Seiner
+224272000,111181,Pole and Line,Pole and Line,1436136186,Other
+224274380,116651,Pole and Line,Handliner,1436230194,Other
+224279670,123135,Purse Seiner,Purse Seiner,1435708945,Seiner
+224286000,122863,Longliner,Longliner,1435712731,Longliner
+224288000,107028,Longliner,Longliner,1435712368,Longliner
+224290000,103274,Longliner,Longliner,1435713474,Longliner
+224292000,109034,Trawler,Bottom Otter Trawler,1435713047,Trawler
+224292970,106638,Longliner,Longliner,1436467478,Longliner
+224295000,115128,Longliner,Longliner,1435714646,Longliner
+224298000,112584,Trawler,BottomPairTrawler,1435712619,Trawler
+224299000,118824,Longliner,Longliner,1435727232,Longliner
+224303000,105230,Fishing Support Vessel,Support Vessel(BB / PS),1436650954,Support
+224306000,102455,Longliner,Longliner,1435712706,Longliner
+224307000,107969,Fishing Support Vessel,Support Vessel(BB / PS),1437633829,Support
+224313360,125472,Purse Seiner,Purse Seiner,1435709011,Seiner
+224313390,126886,Trawler,Bottom Otter Trawler,1435709641,Trawler
+224315860,113916,Purse Seiner,Purse Seiner,1435708897,Seiner
+224318000,123569,Longliner,Longliner,1436168412,Longliner
+224322690,125612,Trawler,Bottom Otter Trawler,1436865056,Trawler
+224323960,112247,Trawler,Bottom Otter Trawler,1435722442,Trawler
+224329000,118935,Trawler,Bottom Otter Trawler,1435713247,Trawler
+224330760,123709,Trawler,Bottom Otter Trawler,1435747175,Trawler
+224331000,111660,Trawler,Bottom Otter Trawler,1437637994,Trawler
+224333460,125732,Purse Seiner,Purse Seiner,1435714059,Seiner
+224335000,123269,Longliner,Longliner,1435712703,Longliner
+224342000,106491,Longliner,Longliner,1435720193,Longliner
+224366000,131218,Longliner,Tuna longliner,1435708994,Longliner
+224368530,112668,Trawler,Bottom Otter Trawler,1435807904,Trawler
+224368920,103900,Purse Seiner,Purse Seiner,1435785621,Seiner
+224371000,106672,Longliner,Longliner,1435721195,Longliner
+224377000,127813,Longliner,Longliner,1435713670,Longliner
+224380000,120161,Longliner,Longliner,1435709268,Longliner
+224382970,102183,Trawler,Bottom Otter Trawler,1435724139,Trawler
+224384000,107321,Trawler,Bottom Otter Trawler,1435720828,Trawler
+224385000,100854,Longliner,Longliner,1436806495,Longliner
+224386370,123066,Trawler,Bottom Otter Trawler,1435721791,Trawler
+224389000,114346,Trawler,Bottom Otter Trawler,1436025643,Trawler
+224396270,119813,Purse Seiner,Purse Seiner,1435777687,Seiner
+224407000,120564,Longliner,Longliner,1435713559,Longliner
+224421000,129792,Trawler,Bottom Otter Trawler,1436363380,Trawler
+224425770,100921,Purse Seiner,Purse Seiner,1442491795,Seiner
+224431000,103410,Purse Seiner,Tuna purse seiner,1437556480,Seiner
+224438000,110027,Longliner,Longliner,1435712307,Longliner
+224447240,130547,Purse Seiner,Purse Seiner,1435713476,Seiner
+224448260,129836,Purse Seiner,Purse Seiner,1435708966,Seiner
+224452000,123778,Longliner,Longliner,1435712922,Longliner
+224459000,108414,Longliner,Tuna longliner,1435712706,Longliner
+224464000,115053,Purse Seiner,Tuna purse seiner,1435728691,Seiner
+224468000,120157,Trawler,Bottom Otter Trawler,1435712911,Trawler
+224469000,112871,Purse Seiner,Tuna purse seiner,1436677777,Seiner
+224472000,101555,Longliner,Tuna longliner,1435718884,Longliner
+224475470,107256,Pole and Line,Handliner,1435709629,Other
+224488000,118626,Trawler,Bottom Otter Trawler,1435753020,Trawler
+224491000,120825,Trawler,Bottom Otter Trawler,1436529609,Trawler
+224506000,115112,Trawler,Bottom Otter Trawler,1435709219,Trawler
+224531000,106467,Purse Seiner,Tuna purse seiner,1435712772,Seiner
+224536000,111174,Trawler,Bottom Otter Trawler,1435713638,Trawler
+224540000,111177,Trawler,Bottom Otter Trawler,1436316774,Trawler
+224545000,112512,Longliner,Longliner,1435714469,Longliner
+224547000,115047,Trawler,Bottom Otter Trawler,1435709141,Trawler
+224556000,132111,Longliner,Tuna longliner,1435734094,Longliner
+224559000,110729,Trawler,Bottom Otter Trawler,1435786260,Trawler
+224567000,106858,Trawler,Bottom Otter Trawler,1438732554,Trawler
+224571000,130870,Trawler,Bottom Otter Trawler,1435840072,Trawler
+224572000,112328,Trawler,BottomPairTrawler,1435709072,Trawler
+224577000,111866,Longliner,Longliner,1435725268,Longliner
+224578000,114412,Longliner,Longliner,1437081671,Longliner
+224580000,115590,Purse Seiner,Tuna purse seiner,1435939883,Seiner
+224581000,129191,Longliner,Longliner,1436526556,Longliner
+224587000,124915,Purse Seiner,Tuna purse seiner,1435990899,Seiner
+224594250,113016,Purse Seiner,Purse Seiner,1435714812,Seiner
+224609000,131545,Longliner,Longliner,1435752233,Longliner
+224658000,119377,Longliner,Longliner,1436427401,Longliner
+224680000,116184,Purse Seiner,Tuna purse seiner,1435709691,Seiner
+224687000,132536,Longliner,Longliner,1435709093,Longliner
+224701000,116265,Trawler,Bottom Otter Trawler,1440191616,Trawler
+224709000,118116,Purse Seiner,Purse Seiner,1436044149,Seiner
+224716000,125095,Purse Seiner,Tuna purse seiner,1435801945,Seiner
+224717000,110619,Purse Seiner,Tuna purse seiner,1437623686,Seiner
+224724000,122536,Trawler,Bottom Otter Trawler,1435708910,Trawler
+224727000,107561,Purse Seiner,Tuna purse seiner,1436756072,Seiner
+224732000,121322,Trawler,Bottom Otter Trawler,1435709684,Trawler
+224733000,110789,Purse Seiner,Tuna purse seiner,1436739956,Seiner
+224745000,123485,Purse Seiner,Tuna purse seiner,1435834777,Seiner
+224752000,119311,Longliner,Longliner,1435709269,Longliner
+224754000,124321,Trawler,Bottom Otter Trawler,1435789395,Trawler
+224782000,102454,Purse Seiner,Tuna purse seiner,1435728318,Seiner
+224859820,130528,Purse Seiner,Purse Seiner,1435709298,Seiner
+224871000,106177,Trawler,BottomPairTrawler,1435712645,Trawler
+224881000,131471,Longliner,Tuna longliner,1435734831,Longliner
+224895000,124768,Pole and Line,Pole and Line,1436091417,Other
+224897000,100639,Trawler,Bottom Otter Trawler,1435838724,Trawler
+224906480,101960,Purse Seiner,Purse Seiner,1435708838,Seiner
+224913000,118144,Longliner,Longliner,1435709278,Longliner
+224922000,103156,Purse Seiner,Tuna purse seiner,1437457230,Seiner
+224926000,123153,Trawler,Bottom Otter Trawler,1435709245,Trawler
+224929000,115482,Longliner,Longliner,1436707550,Longliner
+224933000,122123,Longliner,Longliner,1435732891,Longliner
+224935000,129851,Trawler,Bottom Otter Trawler,1439111956,Trawler
+224938000,124792,Longliner,Longliner,1435709349,Longliner
+224949000,117872,Purse Seiner,Purse Seiner,1435709338,Seiner
+224980000,102521,Longliner,Longliner,1435802484,Longliner
+224987000,126336,Longliner,Tuna longliner,1435720284,Longliner
+224992000,120576,Longliner,Tuna longliner,1435720192,Longliner
+225309000,117879,Purse Seiner,Purse Seiner,1436870309,Seiner
+225318000,127327,Trawler,BottomPairTrawler,1435730538,Trawler
+225325000,113531,Longliner,Longliner,1435709448,Longliner
+225353000,106800,Trawler,Trawler,1435708815,Trawler
+225459000,114965,Purse Seiner,Purse Seiner,1435712683,Seiner
+225461000,112837,Purse Seiner,Purse Seiner,1435846600,Seiner
+225983196,129194,Purse Seiner,Purse Seiner,1435709081,Seiner
+225983852,128762,Purse Seiner,Purse Seiner,1435709004,Seiner
+226045000,112801,Trawler,Bottom Otter Trawler,1435730882,Trawler
+226180000,101349,Purse Seiner,Tuna purse seiner,1435923617,Seiner
+226240000,132131,Purse Seiner,Tuna purse seiner,1436291840,Seiner
+226267000,127246,Trawler,Otter Twin Trawler,1435709188,Trawler
+227104900,110795,Trawler,Beam Trawler,1436568154,Trawler
+227113500,119768,Trawler,Midwater Otter Trawler,1435899740,Trawler
+227118500,105344,Trawler,Otter Twin Trawler,1437758157,Trawler
+227118900,102657,Troller,Troller,1435716284,Other
+227123700,124777,Trawler,Midwater Otter Trawler AND BottomPairTrawler,1435709023,Trawler
+227139900,123310,Trawler,Midwater Pair Trawler,1435722344,Trawler
+227143600,113025,Trawler,Trawler,1435708852,Trawler
+227143900,117022,Trawler,Otter Twin Trawler,1435708989,Trawler
+227144200,131605,Purse Seiner,Purse Seiner,1435710690,Seiner
+227144400,113052,Trawler,Trawler,1436780164,Trawler
+227146300,115982,Purse Seiner,Purse Seiner,1435709016,Seiner
+227302000,112000,Trawler,Midwater Pair Trawler,1435709474,Trawler
+227303000,117281,Trawler,Midwater Pair Trawler,1435709595,Trawler
+227308000,108773,Trawler,Trawler,1435708927,Trawler
+227309000,127588,Trawler,BottomPairTrawler,1435722703,Trawler
+227311010,123921,Trawler,Midwater Pair Trawler,1435914620,Trawler
+227314440,106183,Driftnet,Driftnet,1435709036,Other
+227315190,123070,Purse Seiner,Purse Seiner,1435710042,Seiner
+227315420,127748,Longliner,Longliner,1436970436,Longliner
+227315560,130658,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709093,Trawler
+227317000,124524,Trawler,Trawler,1435709066,Trawler
+227317550,110523,Trawler,Midwater Pair Trawler,1435711839,Trawler
+227317720,118027,Trawler,Midwater Pair Trawler,1435710959,Trawler
+227317860,121858,Trawler,Midwater Pair Trawler,1435712449,Trawler
+227317980,102430,Trawler,Midwater Pair Trawler,1435823416,Trawler
+227318540,100659,Trawler,Trawler,1435711383,Trawler
+227318610,128857,Trawler,Midwater Pair Trawler,1436231647,Trawler
+227319190,105670,Trawler,Midwater Pair Trawler,1435712739,Trawler
+227319570,127896,Purse Seiner,Purse Seiner,1435709243,Seiner
+227321240,115037,Trawler,Midwater Pair Trawler,1435710876,Trawler
+227338000,100204,Trawler,Midwater Otter Trawler,1435708959,Trawler
+227340000,120890,Trawler,Otter Twin Trawler,1435708965,Trawler
+227372000,118838,Trawler,Otter Twin Trawler,1435709013,Trawler
+227382000,104945,Seiner,Danish Seine,1435709235,Seiner
+227391000,131057,Trawler,Trawler,1435709437,Trawler
+227393000,110483,Trawler,Otter Twin Trawler,1437640733,Trawler
+227401000,129359,Trawler,Trawler,1435711957,Trawler
+227409000,108883,Trawler,Midwater Otter Trawler,1435839217,Trawler
+227410000,131189,Trawler,Trawler,1435709734,Trawler
+227411000,127507,Trawler,Otter Twin Trawler,1435709442,Trawler
+227419000,117539,Trawler,Midwater Pair Trawler,1435709184,Trawler
+227425000,103696,Trawler,Trawler,1435763970,Trawler
+227430000,106453,Trawler,Otter Twin Trawler,1435710122,Trawler
+227436000,110612,Trawler,Midwater Otter Trawler,1436451980,Trawler
+227438000,101689,Trawler,Midwater Pair Trawler,1435710732,Trawler
+227442000,109385,Longliner,Longliner,1435709349,Longliner
+227443000,113923,Trawler,Midwater Otter Trawler,1435709127,Trawler
+227474000,100481,Trawler,Midwater Otter Trawler,1435709334,Trawler
+227479000,101468,Gillnetter,Gillnetter,1435862144,Other
+227483000,131616,Trawler,Otter Twin Trawler,1435709232,Trawler
+227533000,112810,Trawler,Midwater Otter Trawler,1435868410,Trawler
+227549000,129772,Purse Seiner,Tuna purse seiner,1435740542,Seiner
+227550000,112414,Purse Seiner,Tuna purse seiner,1435712604,Seiner
+227563000,109307,Longliner,Longliner,1435834396,Longliner
+227573440,131269,Purse Seiner,Purse Seiner,1435709585,Seiner
+227574000,109253,Gillnetter,Gillnetter,1435830942,Other
+227583000,117491,Trawler,Midwater Pair Trawler,1435823456,Trawler
+227584000,109148,Longliner,Longliner,1435709128,Longliner
+227590000,110508,Trawler,Trawler,1435928140,Trawler
+227590980,122608,Purse Seiner,Purse Seiner,1435709656,Seiner
+227599000,107741,Trawler,Midwater Otter Trawler,1435709364,Trawler
+227630880,131336,Trawler,Trawler,1435709741,Trawler
+227635680,127948,Purse Seiner,Purse Seiner,1435709418,Seiner
+227803000,116143,Gillnetter,Gillnetter,1435713707,Other
+227831000,131819,Trawler,Trawler,1435709338,Trawler
+227834000,122191,Longliner,Longliner,1435709238,Longliner
+227835000,114851,Purse Seiner,Tuna purse seiner,1435709220,Seiner
+227843000,126497,Trawler,Midwater Otter Trawler AND Otter Twin Trawler,1435709232,Trawler
+227846000,112783,Purse Seiner,Tuna purse seiner,1435709583,Seiner
+227860000,102062,Trawler,Trawler,1435708884,Trawler
+227875000,104597,Driftnet,Driftnet,1435709147,Other
+227877000,101149,Trawler,Midwater Otter Trawler AND Otter Twin Trawler,1435708822,Trawler
+227883000,102260,Driftnet,Driftnet,1435730594,Other
+227902000,114574,Trawler,Trawler,1435712242,Trawler
+227913000,130270,Trawler,Midwater Pair Trawler,1436085659,Trawler
+227917000,114598,Trawler,Trawler,1435797457,Trawler
+227922000,100321,Trawler,BottomPairTrawler,1435708920,Trawler
+227941000,111868,Trawler,Midwater Otter Trawler,1435708934,Trawler
+227981000,104432,Trawler,Midwater Otter Trawler,1436276630,Trawler
+227984000,103507,Trawler,Trawler,1435926893,Trawler
+228004700,111370,Trawler,Bottom Otter Trawler,1435878372,Trawler
+228015700,119045,Trawler,Bottom Otter Trawler,1435709530,Trawler
+228020600,107133,Trawler,Otter Twin Trawler,1435708913,Trawler
+228021700,113021,Trawler,Otter Twin Trawler,1435848438,Trawler
+228033600,129351,Seiner,Danish Seine,1435709558,Seiner
+228037600,125278,Purse Seiner,Purse Seiner,1435709355,Seiner
+228037700,107674,Purse Seiner,Purse Seiner,1435865359,Seiner
+228042600,122256,Seiner,Danish Seine,1435709320,Seiner
+228065800,105133,Trawler,Midwater Pair Trawler,1435710423,Trawler
+228067700,116840,Trawler,Bottom Otter Trawler,1438075046,Trawler
+228107800,128168,Trawler,Trawler,1435709414,Trawler
+228113000,119503,Trawler,Midwater Otter Trawler,1435709096,Trawler
+228119000,130604,Trawler,Midwater Otter Trawler,1435709865,Trawler
+228128000,118556,Purse Seiner,Tuna purse seiner,1435712802,Seiner
+228131000,115068,Trawler,Otter Twin Trawler,1435708916,Trawler
+228133000,101445,Trawler,Midwater Otter Trawler,1435728614,Trawler
+228134800,131535,Trawler,Beam Trawler,1435768636,Trawler
+228135000,120879,Trawler,Otter Twin Trawler,1435708827,Trawler
+228137900,102826,Trawler,Midwater Pair Trawler,1435738525,Trawler
+228138000,118649,Trawler,Trawler,1435709340,Trawler
+228144700,100112,Trawler,Midwater Pair Trawler,1437100545,Trawler
+228150000,120487,Trawler,Midwater Otter Trawler,1435708932,Trawler
+228157000,114472,Trawler,Midwater Otter Trawler,1435724813,Trawler
+228158000,121936,Trawler,Otter Twin Trawler,1435719010,Trawler
+228167000,112702,Purse Seiner,Tuna purse seiner,1435709415,Seiner
+228167900,115880,Purse Seiner,Purse Seiner,1435709018,Seiner
+228168000,123649,Purse Seiner,Tuna purse seiner,1435740777,Seiner
+228169000,120158,Longliner,Longliner,1436348864,Longliner
+228174600,122497,Trawler,Midwater Otter Trawler AND Otter Twin Trawler,1435744735,Trawler
+228190600,113027,Trawler,Midwater Otter Trawler AND Otter Twin Trawler,1435709489,Trawler
+228192000,109731,Trawler,Midwater Otter Trawler,1435744172,Trawler
+228197000,114193,Purse Seiner,Purse Seiner,1435708966,Seiner
+228198700,107682,Trawler,Beam Trawler,1436863502,Trawler
+228208800,115397,Purse Seiner,Purse Seiner,1435711205,Seiner
+228209700,120390,Seiner,Danish Seine,1436196069,Seiner
+228212700,101975,Purse Seiner,Purse Seiner,1435708855,Seiner
+228215700,107273,Trawler,Trawler,1435907711,Trawler
+228215800,112244,Purse Seiner,Purse Seiner,1441727077,Seiner
+228216600,110363,Seiner,Danish Seine,1437981340,Seiner
+228217100,128544,Purse Seiner,Purse Seiner,1435709326,Seiner
+228218700,119142,Purse Seiner,Purse Seiner,1435709595,Seiner
+228218800,102833,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435713020,Trawler
+228222900,108417,Trawler,Midwater Otter Trawler,1435757202,Trawler
+228228800,100580,Trawler,Otter Twin Trawler,1435710410,Trawler
+228229900,108343,Seiner,Danish Seine,1435710332,Seiner
+228231800,119485,Trawler,Otter Twin Trawler,1435709736,Trawler
+228235000,116461,Trawler,Otter Twin Trawler,1435708884,Trawler
+228236000,107582,Trawler,Otter Twin Trawler,1435709298,Trawler
+228236700,103131,Trawler,Otter Twin Trawler,1435709414,Trawler
+228236800,116704,Trawler,Midwater Pair Trawler,1437358255,Trawler
+228238700,118885,Trawler,Otter Twin Trawler,1435710328,Trawler
+228239000,119115,Trawler,Midwater Otter Trawler,1435739001,Trawler
+228239900,125190,Trawler,Otter Twin Trawler,1435708969,Trawler
+228240800,118212,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709496,Trawler
+228240900,107052,Trawler,Midwater Otter Trawler,1435708813,Trawler
+228252000,112884,Trawler,Otter Twin Trawler,1435708876,Trawler
+228258000,110154,Trawler,Otter Twin Trawler,1435714836,Trawler
+228260900,129618,Purse Seiner,Purse Seiner,1441038364,Seiner
+228262700,101304,Purse Seiner,Purse Seiner,1435708895,Seiner
+228280000,123090,Purse Seiner,Tuna purse seiner,1435740798,Seiner
+228281000,109060,Trawler,Otter Twin Trawler,1435708871,Trawler
+228288000,110748,Trawler,Midwater Otter Trawler,1435708860,Trawler
+228293000,130911,Purse Seiner,Purse Seiner,1435709377,Seiner
+228301600,101994,Trawler,Midwater Pair Trawler,1435713546,Trawler
+228301900,115731,Longliner,Longliner,1435709022,Longliner
+228302900,131991,Purse Seiner,Purse Seiner,1435709511,Seiner
+228312000,123924,Trawler,Otter Twin Trawler,1435709960,Trawler
+228313000,108024,Trawler,Otter Twin Trawler,1435708887,Trawler
+228364000,117460,Trawler,Midwater Otter Trawler,1439906805,Trawler
+228367000,132421,Seiner,Seiner - NEI,1435713834,Seiner
+228370000,113802,Trawler,Midwater Otter Trawler,1435708969,Trawler
+228374000,115388,Trawler,Midwater Otter Trawler,1435708862,Trawler
+228380000,110514,Trawler,Midwater Otter Trawler,1435709016,Trawler
+228385000,108350,Troller,Troller,1442393561,Other
+228394000,113638,Trawler,Midwater Otter Trawler,1435709617,Trawler
+228840000,103130,Gillnetter,Gillnetter,1435708824,Other
+228853000,103203,Trawler,Otter Twin Trawler,1435709460,Trawler
+228854000,123085,Trawler,Midwater Otter Trawler,1436224151,Trawler
+228887000,103301,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435717813,Trawler
+228904000,107654,Trawler,Trawler,1435708864,Trawler
+228905000,113664,Trawler,Otter Twin Trawler,1435709400,Trawler
+228929000,118308,Trawler,Midwater Otter Trawler,1436288995,Trawler
+228931000,115673,Trawler,Midwater Otter Trawler,1435901924,Trawler
+228935000,100403,Trawler,Trawler,1435720903,Trawler
+228941000,105339,Trawler,Otter Twin Trawler,1436148587,Trawler
+228975000,102519,Longliner,Longliner,1435708953,Longliner
+228979000,104313,Trawler,Midwater Otter Trawler,1435709196,Trawler
+229496000,110274,Fishing Support Vessel,Support Vessel,1435733124,Support
+229705000,112566,Fishing Support Vessel,Fish Carrier,1435728915,Support
+230001770,124927,Trawler,Midwater Pair Trawler,1435709209,Trawler
+230035000,123112,Trawler,Midwater Pair Trawler,1442402699,Trawler
+230035100,115553,Trawler,Midwater Pair Trawler,1435709602,Trawler
+230052950,117043,Trawler,Midwater Pair Trawler,1435724323,Trawler
+230061850,115792,Trawler,Midwater Pair Trawler,1435709251,Trawler
+230063680,129024,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435708934,Trawler
+230069190,108669,Trawler,Bottom Otter Trawler,1436288887,Trawler
+230117380,110012,Trawler,Midwater Pair Trawler,1437978435,Trawler
+230122280,124175,Trawler,Midwater Pair Trawler,1435726401,Trawler
+230346000,121760,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1443499355,Trawler
+230627000,116926,Trawler,Midwater Pair Trawler,1435709461,Trawler
+230941650,123584,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709552,Trawler
+230941710,125213,Trawler,Midwater Pair Trawler,1435709499,Trawler
+230942260,128457,Trawler,Midwater Pair Trawler,1435709474,Trawler
+230942350,115702,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435709681,Trawler
+230942640,127559,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435748664,Trawler
+230984250,125622,Trawler,Midwater Pair Trawler,1435948756,Trawler
+230987350,127349,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709571,Trawler
+230993160,119459,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435711405,Trawler
+230996190,110998,Trawler,Midwater Pair Trawler AND Bottom Otter Trawler,1438095174,Trawler
+230996210,129349,Trawler,Midwater Pair Trawler,1436305682,Trawler
+232003630,100131,Trawler,Otter Twin Trawler,1435709677,Trawler
+232004360,118839,Trawler,Otter Twin Trawler,1436431509,Trawler
+232004642,106993,Trawler,Otter Twin Trawler,1435802353,Trawler
+232004676,125607,Trawler,Otter Twin Trawler,1435709359,Trawler
+232004918,111854,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435708838,Trawler
+232005120,129402,Troller,Trolling Line,1435791823,Other
+232005290,106336,Purse Seiner,Purse Seiner,1435709595,Seiner
+232005420,103283,Trawler,Beam Trawler,1435767534,Trawler
+232005520,127644,Trawler,Beam Trawler,1435709070,Trawler
+232005530,123033,Trawler,Beam Trawler,1435708981,Trawler
+232005650,103597,Trawler,Beam Trawler,1435708992,Trawler
+232005800,128888,Trawler,Beam Trawler,1435709041,Trawler
+232006030,114929,Trawler,Beam Trawler AND Otter Twin Trawler,1435911695,Trawler
+232006310,122350,Trawler,Midwater Pair Trawler,1435709601,Trawler
+232006380,131130,Trawler,Beam Trawler,1435708878,Trawler
+232006410,107906,Trawler,Beam Trawler,1435880958,Trawler
+232006940,126098,Trawler,Otter Twin Trawler,1435824836,Trawler
+232007060,123215,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435716253,Trawler
+232007570,121188,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435708886,Trawler
+232007970,124008,Trawler,Midwater Pair Trawler AND Otter Twin Trawler AND Midwater Otter Trawler,1435714051,Trawler
+232091000,112204,Trawler,Otter Twin Trawler,1435709461,Trawler
+232253000,115856,Trawler,Beam Trawler,1435714007,Trawler
+232746000,100332,Trawler,Otter Twin Trawler,1435709954,Trawler
+232806000,101173,Trawler,Otter Twin Trawler AND Midwater Otter Trawler,1436288249,Trawler
+233342000,130182,Trawler,Beam Trawler,1435709182,Trawler
+233344000,105092,Trawler,BottomPairTrawler,1435791488,Trawler
+233345000,103445,Trawler,Otter Twin Trawler,1435714995,Trawler
+234052000,119286,Trawler,Otter Twin Trawler,1435709330,Trawler
+234341000,121598,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1439927598,Trawler
+234417000,122186,Trawler,BottomPairTrawler,1435709657,Trawler
+234757000,117288,Trawler,BottomPairTrawler,1435727533,Trawler
+234805000,115876,Trawler,Otter Twin Trawler,1435709571,Trawler
+234879000,106500,Trawler,Beam Trawler,1435953996,Trawler
+234912000,121690,Trawler,Otter Twin Trawler,1435709614,Trawler
+235000360,105615,Trawler,Beam Trawler,1435751486,Trawler
+235000623,112879,Trawler,Midwater Pair Trawler AND Otter Twin Trawler AND Midwater Otter Trawler,1436101373,Trawler
+235000676,112999,Trawler,Otter Twin Trawler,1435709274,Trawler
+235000743,112868,Trawler,Midwater Pair Trawler,1435709279,Trawler
+235001440,111859,Trawler,Midwater Pair Trawler,1435709336,Trawler
+235002029,114841,Trawler,Beam Trawler AND BottomPairTrawler,1435708876,Trawler
+235002330,100494,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435713203,Trawler
+235002690,105883,Trawler,Otter Twin Trawler,1435709143,Trawler
+235002800,125694,Trawler,Beam Trawler,1435709079,Trawler
+235002820,121497,Trawler,Beam Trawler,1435709175,Trawler
+235002830,108291,Trawler,Beam Trawler,1435708842,Trawler
+235002916,115809,Trawler,Midwater Pair Trawler,1435745233,Trawler
+235003120,128141,Trawler,Otter Twin Trawler,1435759381,Trawler
+235003150,119043,Trawler,Otter Twin Trawler,1436827190,Trawler
+235003170,117197,Seiner,Scottish Seine,1435965949,Seiner
+235003589,106959,Trawler,Otter Twin Trawler,1435716680,Trawler
+235003678,107750,Trawler,BottomPairTrawler,1439142208,Trawler
+235004076,106854,Trawler,Otter Twin Trawler,1436199093,Trawler
+235004300,109889,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1442241535,Trawler
+235004600,125642,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435709219,Trawler
+235004690,130605,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1439193479,Trawler
+235004920,123746,Trawler,Otter Twin Trawler,1435709221,Trawler
+235005282,123942,Trawler,Beam Trawler AND Otter Twin Trawler,1436234541,Trawler
+235005283,123336,Trawler,Beam Trawler,1435709029,Trawler
+235005350,106732,Trawler,Beam Trawler,1435708883,Trawler
+235005740,121140,Trawler,Beam Trawler,1435885660,Trawler
+235005770,118779,Trawler,Beam Trawler AND Otter Twin Trawler,1435871588,Trawler
+235006280,114335,Trawler,Midwater Pair Trawler,1435708983,Trawler
+235006840,110693,Trawler,Otter Twin Trawler,1435709227,Trawler
+235006892,132760,Trawler,Otter Twin Trawler,1442933370,Trawler
+235007070,106703,Trawler,Beam Trawler,1435709329,Trawler
+235007275,124383,Trawler,Beam Trawler,1435709011,Trawler
+235007552,117445,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435709734,Trawler
+235007570,107286,Trawler,Beam Trawler,1435708959,Trawler
+235007904,112982,Trawler,BottomPairTrawler,1435744222,Trawler
+235008039,116122,Trawler,Otter Twin Trawler,1435815852,Trawler
+235008172,126402,Trawler,Otter Twin Trawler,1436150224,Trawler
+235008670,108729,Trawler,Otter Twin Trawler,1435958866,Trawler
+235010340,128528,Trawler,Otter Twin Trawler AND Midwater Otter Trawler,1435883064,Trawler
+235010670,111328,Trawler,Midwater Pair Trawler,1435708923,Trawler
+235011340,126398,Trawler,Beam Trawler,1440786604,Trawler
+235013325,112501,Trawler,Midwater Pair Trawler,1435709303,Trawler
+235014511,106091,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435708824,Trawler
+235016228,109078,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435709454,Trawler
+235020355,102336,Trawler,Otter Twin Trawler,1435826136,Trawler
+235020423,107190,Trawler,Midwater Pair Trawler,1435716303,Trawler
+235020549,107644,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435814595,Trawler
+235021304,112192,Trawler,Beam Trawler,1435827066,Trawler
+235021469,116595,Trawler,Otter Twin Trawler,1435709540,Trawler
+235023059,106531,Trawler,Beam Trawler,1435730078,Trawler
+235025319,123132,Trawler,Beam Trawler,1435976333,Trawler
+235026354,124968,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435718052,Trawler
+235031105,118903,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435730733,Trawler
+235032237,113071,Trawler,Otter Twin Trawler,1435709603,Trawler
+235033608,103355,Trawler,Otter Twin Trawler,1435709675,Trawler
+235036491,103715,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435847677,Trawler
+235040556,100216,Gillnetter,Encircling Gill Net,1436520994,Other
+235051022,104368,Trawler,Midwater Pair Trawler,1436030626,Trawler
+235051173,107280,Trawler,Bottom Otter Trawler,1436668883,Trawler
+235054653,131544,Trawler,Beam Trawler,1435709167,Trawler
+235058829,100175,Trawler,Midwater Pair Trawler,1435713587,Trawler
+235060915,100400,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435709180,Trawler
+235064801,131147,Trawler,BottomPairTrawler,1435747302,Trawler
+235066405,117869,Trawler,Bottom Otter Trawler,1435708969,Trawler
+235067977,132582,Trawler,Otter Twin Trawler,1435709012,Trawler
+235068406,132149,Trawler,Beam Trawler,1435708999,Trawler
+235068431,130056,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435736321,Trawler
+235076457,116083,Trawler,Bottom Otter Trawler,1435731702,Trawler
+235076687,119637,Trawler,BottomPairTrawler,1435709133,Trawler
+235078558,108016,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1435712619,Trawler
+235080649,101769,Trawler,Otter Twin Trawler,1435709093,Trawler
+235082849,132409,Trawler,Midwater Otter Trawler,1436877888,Trawler
+235086141,129950,Trawler,Beam Trawler,1435709395,Trawler
+235090189,113471,Trawler,Beam Trawler,1435708969,Trawler
+235090771,107099,Trawler,Bottom Otter Trawler,1435708892,Trawler
+235093015,123225,Trawler,Midwater Pair Trawler,1435738269,Trawler
+235096094,113712,Trawler,Beam Trawler,1435708951,Trawler
+235097013,114351,Driftnet,Driftnet,1435709083,Other
+235102461,119676,Trawler,Otter Twin Trawler,1438124466,Trawler
+235103197,108907,Trawler,Midwater Pair Trawler,1435712580,Trawler
+235106049,126730,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435708937,Trawler
+235109887,129686,Gillnetter,Encircling Gill Net,1435855351,Other
+235112317,109190,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1436778541,Trawler
+235113099,107040,Trawler,Midwater Pair Trawler,1440584751,Trawler
+235166000,115804,Trawler,Otter Twin Trawler,1435709058,Trawler
+235672000,123427,Trawler,Midwater Pair Trawler,1435708997,Trawler
+235673000,125527,Trawler,Midwater Pair Trawler,1439813522,Trawler
+235746000,104207,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709222,Trawler
+235838000,109585,Trawler,Midwater Pair Trawler,1435748956,Trawler
+237034000,101718,Trawler,Trawler,1436203667,Trawler
+237312000,115612,Trawler,Trawler,1439367895,Trawler
+237885000,109405,Trawler,Trawler,1442914966,Trawler
+237918000,108603,Trawler,Trawler,1436214805,Trawler
+238019440,126567,Fishing Support Vessel,Support Vessel,1435725779,Support
+238037040,123767,Purse Seiner,Purse Seiner,1436201545,Seiner
+238102540,106635,Purse Seiner,Purse Seiner,1436198321,Seiner
+238116740,102663,Purse Seiner,Purse Seiner,1435731013,Seiner
+238116840,105464,Purse Seiner,Purse Seiner,1436167498,Seiner
+238117940,129282,Purse Seiner,Purse Seiner,1435907077,Seiner
+238118140,118718,Purse Seiner,Purse Seiner,1436188402,Seiner
+238146340,109102,Purse Seiner,Purse Seiner,1436205891,Seiner
+238150000,113507,Purse Seiner,Purse Seiner,1436551926,Seiner
+238152840,120013,Purse Seiner,Purse Seiner,1436204329,Seiner
+238160240,104465,Purse Seiner,Purse Seiner,1436554003,Seiner
+238162240,108140,Pole and Line,Handliner,1435989191,Other
+238192340,127737,Purse Seiner,Purse Seiner,1435709761,Seiner
+238198440,126109,Pole and Line,Handliner,1435806083,Other
+238217440,106465,Purse Seiner,Purse Seiner,1436200170,Seiner
+238226940,129937,Purse Seiner,Purse Seiner,1436206174,Seiner
+238281140,130339,Purse Seiner,Purse Seiner,1436207445,Seiner
+238287540,124597,Purse Seiner,Purse Seiner,1436172126,Seiner
+238294140,100809,Purse Seiner,Purse Seiner,1436177874,Seiner
+238308040,101600,Purse Seiner,Purse Seiner,1436288819,Seiner
+238316240,104642,Purse Seiner,Purse Seiner,1436204329,Seiner
+238363240,130314,Purse Seiner,Purse Seiner,1436206446,Seiner
+238366440,118260,Purse Seiner,Purse Seiner,1436282915,Seiner
+238390540,109754,Purse Seiner,Purse Seiner,1436288526,Seiner
+238400840,129088,Purse Seiner,Purse Seiner,1435920303,Seiner
+238403040,100464,Purse Seiner,Purse Seiner,1436174294,Seiner
+238409840,123801,Purse Seiner,Purse Seiner,1435708891,Seiner
+238411040,100679,Purse Seiner,Purse Seiner,1436201583,Seiner
+238420640,112067,Purse Seiner,Purse Seiner,1440286350,Seiner
+238430040,103138,Purse Seiner,Purse Seiner,1435722530,Seiner
+238469740,122817,Purse Seiner,Purse Seiner,1436206638,Seiner
+238469840,126778,Purse Seiner,Purse Seiner,1436204237,Seiner
+238471240,114433,Purse Seiner,Purse Seiner,1435837507,Seiner
+238561110,112296,Fishing Support Vessel,Support Vessel,1436169229,Support
+238583910,130758,Purse Seiner,Purse Seiner,1436083590,Seiner
+238604010,101017,Purse Seiner,Purse Seiner,1436207655,Seiner
+238616740,124538,Purse Seiner,Purse Seiner,1436558469,Seiner
+238621810,117692,Purse Seiner,Purse Seiner,1436284006,Seiner
+238622140,116625,Purse Seiner,Purse Seiner,1436351230,Seiner
+238622210,101097,Purse Seiner,Purse Seiner,1435710612,Seiner
+238622240,102392,Purse Seiner,Purse Seiner,1435923669,Seiner
+238622310,119905,Purse Seiner,Purse Seiner,1436204649,Seiner
+238623740,122011,Purse Seiner,Purse Seiner,1436283011,Seiner
+238624910,128793,Purse Seiner,Purse Seiner,1436563255,Seiner
+238644110,102386,Purse Seiner,Purse Seiner,1436289679,Seiner
+238647310,127166,Purse Seiner,Purse Seiner,1436306797,Seiner
+238742840,118273,Purse Seiner,Purse Seiner,1436292453,Seiner
+238743340,129992,Purse Seiner,Purse Seiner,1436206119,Seiner
+238744540,132076,Purse Seiner,Purse Seiner,1436198737,Seiner
+238751940,130825,Purse Seiner,Purse Seiner,1435816914,Seiner
+238752140,124262,Purse Seiner,Purse Seiner,1436203740,Seiner
+238752740,105747,Purse Seiner,Purse Seiner,1436208495,Seiner
+238763240,118454,Purse Seiner,Purse Seiner,1436204327,Seiner
+238764940,103894,Purse Seiner,Purse Seiner,1436189703,Seiner
+238765040,104113,Purse Seiner,Purse Seiner,1436204019,Seiner
+238769140,124762,Purse Seiner,Purse Seiner,1435837367,Seiner
+238770640,113122,Purse Seiner,Purse Seiner,1435709482,Seiner
+238771540,132171,Purse Seiner,Purse Seiner,1436355552,Seiner
+238778540,115732,Purse Seiner,Purse Seiner,1436327047,Seiner
+238781440,115005,Purse Seiner,Purse Seiner,1436727345,Seiner
+238794240,132385,Purse Seiner,Purse Seiner,1436208688,Seiner
+238825840,125572,Purse Seiner,Purse Seiner,1436294354,Seiner
+238837240,122277,Purse Seiner,Purse Seiner,1436189276,Seiner
+238838740,122888,Purse Seiner,Purse Seiner,1436282409,Seiner
+238897610,129269,Purse Seiner,Purse Seiner,1436153929,Seiner
+238899140,109930,Purse Seiner,Purse Seiner,1435731473,Seiner
+238899240,128424,Purse Seiner,Purse Seiner,1436205624,Seiner
+238900840,131610,Purse Seiner,Purse Seiner,1435709139,Seiner
+238905540,116846,Purse Seiner,Purse Seiner,1435759991,Seiner
+238905840,106728,Purse Seiner,Purse Seiner,1435709490,Seiner
+238923240,121384,Purse Seiner,Purse Seiner,1436179541,Seiner
+238939940,123447,Purse Seiner,Purse Seiner,1435834149,Seiner
+238957040,118771,Purse Seiner,Purse Seiner,1436204022,Seiner
+238958248,107723,Purse Seiner,Purse Seiner,1435709330,Seiner
+238963340,123845,Purse Seiner,Purse Seiner,1436368598,Seiner
+238975610,131332,Purse Seiner,Purse Seiner,1435708881,Seiner
+238982010,100799,Purse Seiner,Purse Seiner,1436210765,Seiner
+238986340,122521,Purse Seiner,Purse Seiner,1440987425,Seiner
+238987910,117126,Purse Seiner,Purse Seiner,1436134156,Seiner
+238989740,123063,Purse Seiner,Purse Seiner,1436189203,Seiner
+238990110,104848,Purse Seiner,Purse Seiner,1436254058,Seiner
+238993240,105354,Purse Seiner,Purse Seiner,1436204329,Seiner
+238996440,125833,Pole and Line,Handliner,1435709389,Other
+239055000,100215,Purse Seiner,Purse Seiner,1436374865,Seiner
+242149100,103129,Purse Seiner,Purse Seiner,1435725411,Seiner
+244075000,114542,Trawler,Beam Trawler,1435940266,Trawler
+244427000,101353,Trawler,Beam Trawler,1435739368,Trawler
+244542000,103400,Fishing Support Vessel,FISH CARRIER,1435712692,Support
+244766000,131772,Trawler,Beam Trawler,1435708995,Trawler
+244790145,100838,Fishing Support Vessel,FISH CARRIER,1435713789,Support
+244790800,106906,Trawler,Bottom Otter Trawler AND Otter Twin Trawler,1437049708,Trawler
+244810627,121795,Trawler,Beam Trawler,1435709192,Trawler
+244820009,115787,Fishing Support Vessel,FISH CARRIER,1435770166,Support
+244869000,118573,Trawler,Beam Trawler,1435709262,Trawler
+244959000,131132,Trawler,Beam Trawler,1435709180,Trawler
+245150000,107399,Trawler,Beam Trawler,1436595769,Trawler
+245308000,120343,Seiner,Scottish Seine,1435709657,Seiner
+245370000,101658,Trawler,Beam Trawler,1435709112,Trawler
+245530000,105128,Trawler,Beam Trawler,1435712165,Trawler
+245612000,108287,Trawler,Beam Trawler,1435714055,Trawler
+245973000,111846,Fishing Support Vessel,FISH CARRIER,1435709074,Support
+246047000,118924,Trawler,Beam Trawler AND BottomPairTrawler,1435708969,Trawler
+246742000,108705,Seiner,Danish Seine,1435764003,Seiner
+247049260,109795,Purse Seiner,Purse Seiner,1435709454,Seiner
+247050170,106089,Trawler,Trawler,1435716230,Trawler
+247050560,107811,Trawler,Trawler,1435715945,Trawler
+247050620,100865,Purse Seiner,Purse Seiner,1435709665,Seiner
+247050790,111592,Trawler,Trawler,1435715425,Trawler
+247050950,103326,Longliner,Longliner,1436240609,Longliner
+247051410,122334,Trawler,Trawler,1435709589,Trawler
+247051550,110458,Trawler,Trawler,1435715887,Trawler
+247051830,123318,Trawler,Trawler,1435709653,Trawler
+247051840,102677,Trawler,Trawler,1435714054,Trawler
+247051860,128154,Trawler,Trawler,1435715231,Trawler
+247051920,105267,Trawler,Trawler,1435709483,Trawler
+247051980,101169,Trawler,Trawler,1435710015,Trawler
+247053120,128725,Trawler,Trawler,1435716067,Trawler
+247053420,104718,Trawler,Trawler,1435716332,Trawler
+247053620,129845,Trawler,Trawler,1435708876,Trawler
+247054650,126602,Purse Seiner,Purse Seiner,1435711704,Seiner
+247055400,106857,Trawler,Trawler,1436986442,Trawler
+247061690,106890,Purse Seiner,Purse Seiner,1435710368,Seiner
+247061730,112670,Purse Seiner,Purse Seiner,1435709473,Seiner
+247064760,111485,Trawler,Trawler,1435708894,Trawler
+247065200,107935,Purse Seiner,Purse Seiner,1435709074,Seiner
+247065940,104375,Longliner,Longliner,1435734091,Longliner
+247066860,108088,Purse Seiner,Purse Seiner,1435708981,Seiner
+247067730,130224,Purse Seiner,Purse Seiner,1435709157,Seiner
+247068110,109903,Trawler,Trawler,1435711865,Trawler
+247070850,124439,Trawler,Trawler,1435708831,Trawler
+247070970,118866,Trawler,Trawler,1435709474,Trawler
+247071040,119464,Trawler,Trawler,1435708883,Trawler
+247071050,128047,Trawler,Trawler,1435713241,Trawler
+247071060,113269,Trawler,Trawler,1435709602,Trawler
+247071070,104805,Purse Seiner,Purse Seiner,1435709198,Seiner
+247071940,120143,Purse Seiner,Purse Seiner,1435709620,Seiner
+247072740,108118,Purse Seiner,Purse Seiner,1435714473,Seiner
+247073550,103392,Purse Seiner,Purse Seiner,1435715178,Seiner
+247074630,113817,Purse Seiner,Purse Seiner,1435714894,Seiner
+247074640,115341,Purse Seiner,Purse Seiner,1435715301,Seiner
+247074670,100370,Trawler,Trawler,1435708855,Trawler
+247075010,122328,Trawler,Trawler,1435709024,Trawler
+247080480,117204,Trawler,Trawler,1435715764,Trawler
+247081060,130371,Trawler,Trawler,1435708956,Trawler
+247081150,112078,Purse Seiner,Purse Seiner,1435709375,Seiner
+247081650,102229,Trawler,Trawler,1435715274,Trawler
+247081660,120305,Longliner,Longliner,1435709761,Longliner
+247082290,122445,Trawler,Trawler,1435713319,Trawler
+247082520,118091,Trawler,Trawler,1435709705,Trawler
+247082560,114791,Trawler,Trawler,1435709589,Trawler
+247082580,123443,Trawler,Trawler,1435709542,Trawler
+247083070,117780,Trawler,Trawler,1435786016,Trawler
+247083210,111607,Trawler,Trawler,1435712047,Trawler
+247083260,108534,Trawler,Trawler,1435716427,Trawler
+247083390,122635,Purse Seiner,Purse Seiner,1435709571,Seiner
+247083410,122991,Trawler,Trawler,1435716505,Trawler
+247083420,112390,Trawler,Trawler,1435715837,Trawler
+247083440,115161,Trawler,Trawler,1435716263,Trawler
+247083480,111487,Trawler,Trawler,1435708891,Trawler
+247083530,104731,Trawler,Trawler,1435717608,Trawler
+247083540,123175,Trawler,Trawler,1435715432,Trawler
+247083550,109655,Trawler,Trawler,1435716082,Trawler
+247083860,101375,Trawler,Trawler,1435709262,Trawler
+247083890,127851,Trawler,Trawler,1436194151,Trawler
+247083920,126917,Trawler,Trawler,1435708860,Trawler
+247084010,111321,Longliner,Longliner,1435724258,Longliner
+247084310,110986,Trawler,Trawler,1435709131,Trawler
+247084320,103068,Trawler,Trawler,1435708824,Trawler
+247084610,122542,Trawler,Trawler,1435709665,Trawler
+247084670,117918,Trawler,Trawler,1435708824,Trawler
+247086590,118751,Longliner,Longliner,1435822165,Longliner
+247092860,112641,Purse Seiner,Purse Seiner,1435709632,Seiner
+247093040,124199,Purse Seiner,Purse Seiner,1435709118,Seiner
+247094480,101321,Longliner,Longliner,1435715111,Longliner
+247094570,125377,Longliner,Longliner,1435802018,Longliner
+247094630,108202,Longliner,Longliner,1435800561,Longliner
+247094940,114391,Purse Seiner,Purse Seiner,1435709528,Seiner
+247094960,131503,Longliner,Longliner,1435801128,Longliner
+247096450,123296,Trawler,Trawler,1435715803,Trawler
+247097280,113581,Purse Seiner,Purse Seiner,1435709032,Seiner
+247099330,100277,Purse Seiner,Purse Seiner,1435708886,Seiner
+247100020,110311,Trawler,Trawler,1437641717,Trawler
+247100040,129859,Trawler,Trawler,1435766442,Trawler
+247100050,112306,Purse Seiner,Purse Seiner,1435709620,Seiner
+247100070,120921,Trawler,Trawler,1435715983,Trawler
+247100260,121337,Purse Seiner,Purse Seiner,1435709564,Seiner
+247100320,126245,Trawler,Trawler,1435709107,Trawler
+247100350,105901,Trawler,Trawler,1435708922,Trawler
+247100360,109024,Trawler,Trawler,1437034441,Trawler
+247100410,128268,Purse Seiner,Purse Seiner,1436280910,Seiner
+247100480,120990,Trawler,Trawler,1435709114,Trawler
+247100490,109409,Trawler,Trawler,1435710982,Trawler
+247100530,127774,Trawler,Trawler,1435709004,Trawler
+247100570,101073,Trawler,Trawler,1435714537,Trawler
+247100620,105562,Purse Seiner,Purse Seiner,1435712623,Seiner
+247100640,110109,Trawler,Trawler,1435709573,Trawler
+247100680,102179,Trawler,Trawler,1437337853,Trawler
+247100740,129012,Longliner,Longliner,1435711656,Longliner
+247100930,115039,Trawler,Trawler,1435711178,Trawler
+247101120,122699,Trawler,Trawler,1435709509,Trawler
+247101140,108265,Trawler,Trawler,1435709124,Trawler
+247101170,101521,Trawler,Midwater Otter Trawler,1435709342,Trawler
+247101230,131295,Purse Seiner,Purse Seiner,1435711036,Seiner
+247101330,131541,Longliner,Longliner,1435779685,Longliner
+247101340,109948,Purse Seiner,Purse Seiner,1435709322,Seiner
+247101440,128997,Purse Seiner,Purse Seiner,1435713739,Seiner
+247101490,102432,Trawler,Trawler,1435708804,Trawler
+247101540,132380,Trawler,Trawler,1435716796,Trawler
+247102070,103357,Trawler,Trawler,1435709542,Trawler
+247102110,115018,Purse Seiner,Purse Seiner,1435709644,Seiner
+247102240,125966,Trawler,Trawler,1435708876,Trawler
+247102810,131434,Purse Seiner,Purse Seiner,1435709198,Seiner
+247103040,118137,Purse Seiner,Purse Seiner,1435709237,Seiner
+247103060,108276,Purse Seiner,Purse Seiner,1435713400,Seiner
+247108400,128405,Purse Seiner,Purse Seiner,1435915626,Seiner
+247110080,115630,Fishing Support Vessel,Support Vessel,1435708881,Support
+247110120,102361,Purse Seiner,Purse Seiner,1435708895,Seiner
+247110130,101038,Purse Seiner,Purse Seiner,1435709601,Seiner
+247110160,124953,Purse Seiner,Purse Seiner,1435709334,Seiner
+247110330,123802,Trawler,Trawler,1435713056,Trawler
+247110980,115401,Purse Seiner,Purse Seiner,1435709386,Seiner
+247111260,117787,Purse Seiner,Purse Seiner,1435720926,Seiner
+247111270,125496,Trawler,Trawler,1435834320,Trawler
+247111480,112219,Trawler,Trawler,1435709506,Trawler
+247111730,102618,Purse Seiner,Purse Seiner,1438583279,Seiner
+247113730,110821,Purse Seiner,Purse Seiner,1435723453,Seiner
+247118400,127382,Trawler,Trawler,1435709082,Trawler
+247119090,102558,Longliner,Longliner,1437039752,Longliner
+247120130,110736,Longliner,Longliner,1435780769,Longliner
+247120160,132663,Longliner,Longliner,1435750776,Longliner
+247120180,110734,Longliner,Longliner,1435777074,Longliner
+247120240,116620,Trawler,Trawler,1435709179,Trawler
+247120430,101099,Trawler,Trawler,1435709007,Trawler
+247120440,115010,Trawler,Trawler,1435710055,Trawler
+247120470,105611,Trawler,Trawler,1435709058,Trawler
+247120480,116090,Trawler,Trawler,1435718708,Trawler
+247120570,101216,Longliner,Longliner,1435787331,Longliner
+247120640,122704,Longliner,Longliner,1435791599,Longliner
+247120670,107267,Trawler,Trawler,1435709583,Trawler
+247120760,119051,Trawler,Trawler,1435709145,Trawler
+247120980,114083,Trawler,Trawler,1435709239,Trawler
+247121010,130759,Trawler,Trawler,1435709295,Trawler
+247121020,117945,Trawler,Trawler,1435709031,Trawler
+247121080,100595,Trawler,Trawler,1435715139,Trawler
+247121120,129138,Trawler,Trawler,1435709277,Trawler
+247121160,122298,Purse Seiner,Purse Seiner,1435708922,Seiner
+247121180,118503,Trawler,Trawler,1435709473,Trawler
+247121190,110577,Trawler,Trawler,1435709659,Trawler
+247121210,116812,Trawler,Trawler,1435708895,Trawler
+247121220,113842,Trawler,Trawler,1435796591,Trawler
+247121240,118844,Trawler,Trawler,1435733718,Trawler
+247121280,118709,Trawler,Trawler,1435709902,Trawler
+247121290,115575,Purse Seiner,Purse Seiner,1435709469,Seiner
+247121310,126232,Purse Seiner,Purse Seiner,1435715651,Seiner
+247121370,123776,Trawler,Trawler,1435708988,Trawler
+247121420,132352,Trawler,Trawler,1435722601,Trawler
+247121440,129696,Trawler,Trawler,1435715740,Trawler
+247121660,108047,Trawler,Trawler,1435762261,Trawler
+247121730,104831,Trawler,Trawler,1435709072,Trawler
+247121790,122539,Trawler,Trawler,1435709289,Trawler
+247121820,105728,Purse Seiner,Purse Seiner,1435845897,Seiner
+247121850,129467,Trawler,Trawler,1435708907,Trawler
+247121880,117505,Trawler,Trawler,1435778619,Trawler
+247121920,117096,Trawler,Trawler,1435709220,Trawler
+247121970,100243,Purse Seiner,Purse Seiner,1435709746,Seiner
+247122020,121730,Trawler,Trawler,1435709196,Trawler
+247122080,130380,Trawler,Trawler,1435709554,Trawler
+247122090,110071,Trawler,Trawler,1435717197,Trawler
+247122110,132588,Trawler,Trawler,1435709323,Trawler
+247122150,127605,Trawler,Trawler,1435824504,Trawler
+247122430,105719,Trawler,Trawler,1435708926,Trawler
+247122640,121939,Longliner,Longliner,1435710159,Longliner
+247123150,101577,Longliner,Longliner,1435727707,Longliner
+247123920,112190,Longliner,Longliner,1435754727,Longliner
+247125050,126785,Longliner,Longliner,1435754557,Longliner
+247125640,105481,Trawler,Trawler,1435708895,Trawler
+247126690,131601,Longliner,Longliner,1435714211,Longliner
+247126820,123089,Trawler,Trawler,1436152111,Trawler
+247127020,102316,Longliner,Longliner,1435781229,Longliner
+247130290,110823,Longliner,Longliner,1435747067,Longliner
+247130320,114314,Trawler,Trawler,1435747457,Trawler
+247130370,127009,Longliner,Longliner,1436422359,Longliner
+247130410,100528,Longliner,Longliner,1435708918,Longliner
+247130630,121596,Fishing Support Vessel,Support Vessel,1435709001,Support
+247130650,103973,Longliner,Longliner,1435940715,Longliner
+247130740,117551,Longliner,Longliner,1435725412,Longliner
+247130750,126724,Longliner,Longliner,1435760468,Longliner
+247130850,111384,Longliner,Longliner,1435711923,Longliner
+247130860,125808,Longliner,Longliner,1435709029,Longliner
+247131080,118146,Trawler,Trawler,1435709241,Trawler
+247131130,117219,Longliner,Longliner,1435760216,Longliner
+247131610,108498,Trawler,Trawler,1435708973,Trawler
+247131680,130696,Longliner,Longliner,1435748874,Longliner
+247131710,129803,Longliner,Longliner,1435743361,Longliner
+247132540,119946,Longliner,Longliner,1435731730,Longliner
+247133620,107380,Longliner,Longliner,1435711011,Longliner
+247140080,124509,Purse Seiner,Purse Seiner,1435709706,Seiner
+247140240,101892,Purse Seiner,Purse Seiner,1435735793,Seiner
+247140460,101329,Longliner,Longliner,1435956143,Longliner
+247140520,103476,Longliner,Longliner,1435722051,Longliner
+247140560,107328,Longliner,Longliner,1435778228,Longliner
+247140740,122429,Longliner,Longliner,1439511624,Longliner
+247140780,112498,Longliner,Longliner,1435773617,Longliner
+247141040,111244,Longliner,Longliner,1435709883,Longliner
+247141170,115711,Longliner,Longliner,1435708919,Longliner
+247141320,109486,Longliner,Longliner,1435772519,Longliner
+247141340,104382,Longliner,Longliner,1435708849,Longliner
+247141380,131028,Longliner,Longliner,1435747838,Longliner
+247141390,120500,Purse Seiner,Purse Seiner,1437963415,Seiner
+247141630,106490,Longliner,Longliner,1435710058,Longliner
+247141650,111771,Longliner,Longliner,1435854514,Longliner
+247141660,123686,Longliner,Longliner,1435709479,Longliner
+247141850,108967,Longliner,Longliner,1435880080,Longliner
+247141860,101670,Longliner,Longliner,1435709793,Longliner
+247142160,119411,Longliner,Longliner,1436893776,Longliner
+247142230,113368,Longliner,Longliner,1435753318,Longliner
+247142320,117302,Longliner,Longliner,1435709309,Longliner
+247142430,103820,Longliner,Longliner,1435709937,Longliner
+247142460,132553,Longliner,Longliner,1435708838,Longliner
+247142480,104192,Fishing Support Vessel,Support Vessel,1442394025,Support
+247142630,132039,Longliner,Longliner,1435724375,Longliner
+247142790,108976,Trawler,Trawler,1435709641,Trawler
+247142970,129673,Longliner,Longliner,1435713311,Longliner
+247143030,117282,Longliner,Longliner,1435901086,Longliner
+247143070,130619,Longliner,Longliner,1435709156,Longliner
+247143230,117172,Longliner,Longliner,1435713964,Longliner
+247143430,101556,Trawler,Trawler,1435710280,Trawler
+247143440,132295,Longliner,Longliner,1435709649,Longliner
+247143640,115405,Longliner,Longliner,1435829469,Longliner
+247143660,126748,Trawler,Trawler,1435709751,Trawler
+247143780,108922,Longliner,Longliner,1435709420,Longliner
+247143810,114714,Longliner,Longliner,1436461104,Longliner
+247144230,123335,Trawler,Trawler,1435709595,Trawler
+247144240,131236,Trawler,Trawler,1435709249,Trawler
+247144390,123097,Trawler,Trawler,1435718779,Trawler
+247144750,124934,Longliner,Longliner,1435709410,Longliner
+247144870,116008,Longliner,Longliner,1436406475,Longliner
+247144910,102391,Purse Seiner,Purse Seiner,1435709649,Seiner
+247145510,109010,Trawler,Trawler,1435709899,Trawler
+247145660,102295,Trawler,Trawler,1435722018,Trawler
+247145720,128037,Trawler,Trawler,1435719710,Trawler
+247145850,124384,Purse Seiner,Purse Seiner,1435724156,Seiner
+247145930,105692,Longliner,Longliner,1442050202,Longliner
+247146010,119233,Trawler,Trawler,1435709373,Trawler
+247146030,118107,Longliner,Longliner,1435777695,Longliner
+247146110,117623,Trawler,Trawler,1435715971,Trawler
+247146140,117304,Trawler,Trawler,1435709792,Trawler
+247146240,112972,Longliner,Longliner,1435709749,Longliner
+247146320,118758,Longliner,Longliner,1436175021,Longliner
+247146610,111406,Trawler,Trawler,1435710475,Trawler
+247146630,107521,Longliner,Longliner,1435765329,Longliner
+247146640,103389,Longliner,Longliner,1435741726,Longliner
+247146920,119797,Trawler,Trawler,1436186180,Trawler
+247147270,110845,Fishing Support Vessel,Support Vessel,1435709602,Support
+247147290,131935,Trawler,Trawler,1436188466,Trawler
+247147630,104624,Longliner,Longliner,1435713779,Longliner
+247147880,132489,Longliner,Longliner,1435710349,Longliner
+247147950,127725,Purse Seiner,Purse Seiner,1435708999,Seiner
+247148110,112693,Trawler,Trawler,1435710570,Trawler
+247148120,123433,Trawler,Trawler,1435709754,Trawler
+247148150,128027,Purse Seiner,Purse Seiner,1435708876,Seiner
+247148660,125975,Longliner,Longliner,1438252891,Longliner
+247148670,100362,Longliner,Longliner,1435996924,Longliner
+247148950,111182,Trawler,Trawler,1435710541,Trawler
+247149950,110684,Longliner,Longliner,1435709018,Longliner
+247150350,125422,Longliner,Longliner,1436279160,Longliner
+247151060,110348,Trawler,Midwater Otter Trawler,1435712622,Trawler
+247151810,120894,Trawler,Trawler,1435728067,Trawler
+247151940,131718,Trawler,Trawler,1438129401,Trawler
+247153630,131555,Longliner,Longliner,1435738961,Longliner
+247156120,106900,Longliner,Longliner,1437410959,Longliner
+247220040,132441,Purse Seiner,Purse Seiner,1435709942,Seiner
+247220130,115271,Trawler,Trawler,1435709525,Trawler
+247220190,132061,Purse Seiner,Purse Seiner,1435723347,Seiner
+247222060,111527,Longliner,Longliner,1435709039,Longliner
+247239900,122088,Fishing Support Vessel,Support Vessel,1435709757,Support
+247252970,118943,Trawler,Trawler,1435709070,Trawler
+247300040,121466,Purse Seiner,Purse Seiner,1435710265,Seiner
+247300080,128286,Longliner,Longliner,1435712996,Longliner
+247300180,121616,Longliner,Longliner,1435710535,Longliner
+247300220,119092,Trawler,Trawler,1435709240,Trawler
+247300760,129408,Purse Seiner,Purse Seiner,1435711491,Seiner
+247301120,107876,Longliner,Longliner,1436401435,Longliner
+247302240,100703,Longliner,Longliner,1436241907,Longliner
+247302330,107474,Longliner,Longliner,1435775251,Longliner
+247302670,114497,Trawler,Trawler,1435708934,Trawler
+247302720,129057,Longliner,Longliner,1442310484,Longliner
+247304770,118700,Purse Seiner,Purse Seiner,1435708880,Seiner
+247304790,124702,Longliner,Longliner,1435750086,Longliner
+247305830,109438,Trawler,Trawler,1435713957,Trawler
+247305860,116565,Longliner,Longliner,1435709486,Longliner
+247306530,103552,Purse Seiner,Purse Seiner,1435709751,Seiner
+247306970,100070,Longliner,Longliner,1435890905,Longliner
+247306990,129973,Longliner,Longliner,1437084272,Longliner
+247307130,109523,Longliner,Longliner,1435709830,Longliner
+247309110,103661,Longliner,Longliner,1435709546,Longliner
+247354400,110785,Purse Seiner,Purse Seiner,1436356084,Seiner
+248000150,126061,Longliner,Longliner,1435716870,Longliner
+248000190,110887,Longliner,Longliner,1435891580,Longliner
+249000090,114466,Fishing Support Vessel,Support Vessel,1435709720,Support
+249000102,119345,Trawler,Bottom Otter Trawler,1435708876,Trawler
+249000150,109907,Longliner,Longliner,1435709448,Longliner
+249000210,125709,Longliner,Longliner,1435832689,Longliner
+249000250,131379,Longliner,Longliner,1435708902,Longliner
+249000270,105836,Longliner,Longliner,1436035634,Longliner
+249000597,101803,Longliner,Longliner,1435731713,Longliner
+249000850,123771,Longliner,Longliner,1439013106,Longliner
+249000930,107417,Longliner,Longliner,1435815272,Longliner
+249000980,119735,Longliner,Longliner,1435855863,Longliner
+250000092,105130,Trawler,Midwater Pair Trawler,1435851763,Trawler
+250000096,108527,Trawler,Midwater Pair Trawler,1435709260,Trawler
+250000135,120842,Trawler,Beam Trawler AND Midwater Pair Trawler,1435708981,Trawler
+250000141,104629,Trawler,Midwater Pair Trawler,1439938413,Trawler
+250000199,104195,Trawler,Midwater Pair Trawler,1435714656,Trawler
+250000216,105242,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435862678,Trawler
+250000399,102910,Trawler,Midwater Pair Trawler,1435708822,Trawler
+250000528,129456,Trawler,Midwater Pair Trawler,1435766350,Trawler
+250000546,104369,Trawler,Midwater Otter Trawler,1435709198,Trawler
+250000557,117900,Trawler,Beam Trawler,1435709081,Trawler
+250000594,100384,Trawler,Bottom Otter Trawler,1435787012,Trawler
+250000608,105691,Trawler,Midwater Pair Trawler,1435709574,Trawler
+250000633,105587,Trawler,Beam Trawler,1435709313,Trawler
+250000699,124861,Trawler,Midwater Pair Trawler,1435709077,Trawler
+250000764,122204,Trawler,Beam Trawler AND Bottom Otter Trawler,1435781978,Trawler
+250000854,103678,Trawler,Midwater Pair Trawler,1435726986,Trawler
+250000868,100299,Driftnet,Driftnet,1436405673,Other
+250000884,129210,Trawler,Midwater Pair Trawler,1435713496,Trawler
+250000897,116376,Trawler,Midwater Pair Trawler,1435713920,Trawler
+250000908,131245,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709383,Trawler
+250000954,129486,Driftnet,Driftnet,1435709023,Other
+250000957,112270,Trawler,Trawler,1435709268,Trawler
+250000958,101717,Trawler,Midwater Pair Trawler,1435713489,Trawler
+250001083,115689,Trawler,Midwater Pair Trawler,1435926947,Trawler
+250001093,106194,Trawler,Midwater Pair Trawler,1435911116,Trawler
+250001121,125703,Trawler,Midwater Pair Trawler,1435709267,Trawler
+250001151,123207,Trawler,Midwater Pair Trawler,1435708888,Trawler
+250001166,121054,Trawler,Midwater Pair Trawler,1435719111,Trawler
+250001172,123462,Trawler,Beam Trawler AND BottomPairTrawler,1437060945,Trawler
+250001269,112627,Trawler,Midwater Pair Trawler,1435708829,Trawler
+250001293,123136,Trawler,Beam Trawler,1435709463,Trawler
+250001333,115456,Trawler,Bottom Otter Trawler,1436182111,Trawler
+250001339,113833,Trawler,Midwater Pair Trawler,1435974889,Trawler
+250001421,106596,Trawler,Midwater Pair Trawler AND BottomPairTrawler,1435759388,Trawler
+250001559,109626,Trawler,Midwater Pair Trawler,1435760121,Trawler
+250001676,110044,Trawler,Bottom Otter Trawler,1435713727,Trawler
+250001769,110479,Trawler,Midwater Pair Trawler,1436047060,Trawler
+250001885,116526,Trawler,Trawler,1436330386,Trawler
+250002023,116925,Trawler,Midwater Pair Trawler,1435708934,Trawler
+250002036,108464,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435709211,Trawler
+250002223,113509,Seiner,Scottish Seine,1436664600,Seiner
+250002378,105544,Trawler,Beam Trawler,1435709004,Trawler
+250002424,101928,Trawler,Midwater Pair Trawler,1436891769,Trawler
+250002464,112754,Trawler,Midwater Pair Trawler,1435709387,Trawler
+250002516,105037,Trawler,Beam Trawler,1435709159,Trawler
+250002664,108929,Trawler,Beam Trawler AND Midwater Otter Trawler,1436468159,Trawler
+250002714,102047,Trawler,Beam Trawler,1435710085,Trawler
+250002855,107525,Trawler,Otter Twin Trawler,1435722135,Trawler
+250002872,122562,Trawler,Otter Twin Trawler,1435709220,Trawler
+250002886,103804,Driftnet,Driftnet,1435710029,Other
+250002896,107056,Trawler,Otter Twin Trawler AND BottomPairTrawler,1435733782,Trawler
+250003201,102311,Trawler,Midwater Pair Trawler,1435709143,Trawler
+250003397,124226,Trawler,Midwater Pair Trawler,1439829212,Trawler
+250003406,112188,Trawler,Midwater Pair Trawler,1436373924,Trawler
+250003407,121969,Trawler,Midwater Pair Trawler,1436452256,Trawler
+250101800,103689,Trawler,Midwater Pair Trawler,1435713885,Trawler
+250102600,119597,Trawler,Trawler,1442994713,Trawler
+250103560,118210,Trawler,Midwater Pair Trawler,1435708947,Trawler
+250103600,127646,Trawler,Midwater Pair Trawler,1437484424,Trawler
+250103700,108389,Trawler,Midwater Pair Trawler,1435712629,Trawler
+250104640,125674,Trawler,Beam Trawler,1435709372,Trawler
+250104700,121996,Trawler,Midwater Pair Trawler,1435709209,Trawler
+250105600,102538,Trawler,Midwater Pair Trawler,1435708955,Trawler
+250105700,123953,Driftnet,Driftnet,1435713550,Other
+250106600,118833,Trawler,Midwater Pair Trawler,1435738761,Trawler
+250106800,100305,Trawler,Trawler,1435712515,Trawler
+250106840,110926,Trawler,Beam Trawler,1436124486,Trawler
+250107700,113156,Driftnet,Driftnet,1435709176,Other
+250109460,106803,Purse Seiner,Purse Seiner,1436290016,Seiner
+250115460,124891,Trawler,Midwater Pair Trawler,1435709001,Trawler
+250116470,101672,Trawler,Beam Trawler,1435709378,Trawler
+250117400,104084,Trawler,Midwater Pair Trawler,1435713879,Trawler
+250122460,127877,Trawler,Beam Trawler AND Midwater Pair Trawler,1436391651,Trawler
+250126460,102251,Trawler,Midwater Pair Trawler,1435713519,Trawler
+250132400,108867,Trawler,Beam Trawler AND Midwater Pair Trawler,1435710858,Trawler
+250142400,112749,Trawler,Midwater Pair Trawler,1435713897,Trawler
+250165000,120496,Trawler,Trawler,1435989611,Trawler
+250177000,123719,Trawler,Midwater Pair Trawler,1435932840,Trawler
+250183000,118589,Trawler,Midwater Pair Trawler,1435708852,Trawler
+250184000,108246,Trawler,Midwater Pair Trawler,1435708822,Trawler
+250190000,102754,Trawler,Midwater Pair Trawler,1435709334,Trawler
+250228470,123750,Trawler,Beam Trawler AND Midwater Pair Trawler,1436133190,Trawler
+250240000,122061,Trawler,Midwater Pair Trawler,1435753533,Trawler
+250261000,104212,Trawler,Trawler,1435903108,Trawler
+250262000,121966,Driftnet,Driftnet,1435888364,Other
+250264000,120253,Trawler,Midwater Pair Trawler,1436095627,Trawler
+250269000,121831,Trawler,Trawler,1435709411,Trawler
+250292000,116886,Driftnet,Driftnet,1436383350,Other
+250350000,102503,Trawler,Midwater Pair Trawler,1435722125,Trawler
+250370000,115892,Trawler,Midwater Pair Trawler,1435709240,Trawler
+250379000,101064,Trawler,Midwater Otter Trawler,1435709637,Trawler
+250390000,116339,Driftnet,Driftnet,1436790722,Other
+250428000,102381,Trawler,Trawler,1435709257,Trawler
+250429000,129409,Trawler,Trawler,1435709429,Trawler
+250440000,121955,Trawler,Midwater Pair Trawler,1435713297,Trawler
+250444000,107422,Driftnet,Driftnet,1435708903,Other
+250486000,131046,Driftnet,Driftnet,1435713520,Other
+250489000,113204,Trawler,Beam Trawler,1435709140,Trawler
+250493000,111612,Trawler,Midwater Pair Trawler,1435708873,Trawler
+250495000,125448,Trawler,Midwater Pair Trawler,1435708927,Trawler
+250512000,121162,Trawler,Midwater Pair Trawler,1435709326,Trawler
+250513000,114050,Trawler,Midwater Pair Trawler,1435709141,Trawler
+253000170,118040,Trawler,Midwater Pair Trawler AND Otter Twin Trawler,1438786387,Trawler
+255401690,117537,Longliner,Longliner,1435851723,Longliner
+255402650,104219,Pole and Line,Pole and Line,1435709165,Other
+255402880,125911,Pole and Line,Pole and Line,1435713232,Other
+255402890,115613,Longliner,Longliner,1435785270,Longliner
+255500118,101206,Pole and Line,Pole and Line,1435802179,Other
+255501000,118816,Longliner,Longliner,1435734117,Longliner
+255502000,122168,Pole and Line,Pole and Line,1435713171,Other
+256000058,100625,Longliner,Longliner,1435709124,Longliner
+256000318,112841,Fishing Support Vessel,Support Vessel,1435709102,Support
+256000552,127428,Fishing Support Vessel,Support Vessel,1435721543,Support
+256000656,121946,Longliner,Longliner,1435817123,Longliner
+256384000,118865,Fishing Support Vessel,Support Vessel,1435729944,Support
+261002420,120685,Trawler,Midwater Pair Trawler,1435708934,Trawler
+261518000,110948,Trawler,Midwater Pair Trawler,1435732914,Trawler
+263271000,114377,Longliner,Longliner,1436478132,Longliner
+263274000,117039,Longliner,Longliner,1435709469,Longliner
+263401270,116441,Longliner,Longliner,1435709515,Longliner
+263402680,120111,Longliner,Longliner,1435825197,Longliner
+263407240,132554,Longliner,Longliner,1435718929,Longliner
+263408380,109641,Longliner,Longliner,1435966554,Longliner
+263410690,118984,Longliner,Longliner,1436867708,Longliner
+263413870,112289,Longliner,Longliner,1435713332,Longliner
+263415290,132365,Longliner,Tuna longliner,1435712307,Longliner
+263418780,100161,Longliner,Longliner,1435709001,Longliner
+263422240,120373,Longliner,Longliner,1435740082,Longliner
+263427750,104230,Longliner,Longliner,1436421571,Longliner
+263512000,109139,Longliner,Longliner,1435758007,Longliner
+263564000,109329,Longliner,Tuna longliner,1435709001,Longliner
+263569000,122464,Longliner,Longliner,1435712611,Longliner
+263582000,110306,Longliner,Tuna longliner,1435709118,Longliner
+263583000,103631,Longliner,Longliner,1435716624,Longliner
+263584000,115224,Longliner,Longliner,1435720196,Longliner
+263586000,102421,Trawler,Midwater Pair Trawler,1441703303,Trawler
+263821000,107961,Longliner,Tuna longliner,1435709739,Longliner
+264900113,128233,Trawler,Midwater Pair Trawler,1435709292,Trawler
+265457000,107189,Trawler,Midwater Pair Trawler,1435709538,Trawler
+265551874,114368,Driftnet,Driftnet,1438427695,Other
+265716000,114846,Trawler,Midwater Pair Trawler,1435709207,Trawler
+265741440,127341,Trawler,Midwater Pair Trawler AND Bottom Otter Trawler,1435709129,Trawler
+265754000,129051,Trawler,Midwater Pair Trawler,1435708981,Trawler
+265755000,127088,Trawler,Midwater Pair Trawler,1438805102,Trawler
+265781000,106479,Trawler,Midwater Pair Trawler,1435708941,Trawler
+265817000,111327,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709116,Trawler
+265824000,125350,Trawler,Midwater Pair Trawler,1435708829,Trawler
+266062000,132143,Trawler,Midwater Pair Trawler,1435708983,Trawler
+266101000,121790,Trawler,Midwater Pair Trawler AND Midwater Otter Trawler,1435709188,Trawler
+266245000,116447,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435708910,Trawler
+266274000,121577,Trawler,Midwater Pair Trawler,1435709042,Trawler
+266315000,106729,Trawler,Bottom Otter Trawler AND Midwater Pair Trawler,1435709390,Trawler
+266346000,124767,Trawler,Midwater Pair Trawler,1435709608,Trawler
+271043111,118724,Longliner,Longliner,1435709240,Longliner
+271056046,110628,Purse Seiner,Purse Seiner,1435836095,Seiner
+271072220,118130,Purse Seiner,Purse Seiner,1440474253,Seiner
+273332560,127522,Trawler,Trawler,1435709724,Trawler
+273353640,131020,Fishing Support Vessel,FISH CARRIER,1435753883,Support
+273522400,113997,Trawler,Trawler,1435904917,Trawler
+273524300,127635,Trawler,Trawler,1435712719,Trawler
+273526300,110728,Trawler,Trawler,1436119551,Trawler
+273526700,108293,Trawler,Trawler,1439636234,Trawler
+273528800,102899,Trawler,Trawler,1436773512,Trawler
+275019000,112269,Trawler,Midwater Pair Trawler,1439212294,Trawler
+275026000,112915,Trawler,Midwater Pair Trawler,1440053550,Trawler
+275062000,128147,Trawler,Midwater Pair Trawler,1437800670,Trawler
+275072000,115511,Trawler,Midwater Pair Trawler,1435709252,Trawler
+275086000,123718,Trawler,Midwater Pair Trawler,1435709249,Trawler
+275094000,103163,Trawler,Midwater Pair Trawler,1435709456,Trawler
+275098000,115515,Trawler,Midwater Pair Trawler,1440052023,Trawler
+275099000,104489,Trawler,Midwater Pair Trawler,1438414244,Trawler
+275107000,104463,Trawler,Midwater Pair Trawler,1435709653,Trawler
+275127000,102371,Trawler,Midwater Pair Trawler,1435775424,Trawler
+275129000,125953,Trawler,Midwater Pair Trawler,1438678885,Trawler
+275131000,125995,Trawler,Midwater Pair Trawler,1441111242,Trawler
+275136000,110113,Trawler,Midwater Pair Trawler,1435708910,Trawler
+275143000,112316,Trawler,Midwater Pair Trawler,1435709320,Trawler
+275151000,103856,Trawler,Midwater Pair Trawler,1435709139,Trawler
+275162000,105026,Trawler,Midwater Pair Trawler,1435716566,Trawler
+275173000,115433,Trawler,Midwater Pair Trawler,1435708895,Trawler
+275190000,102759,Trawler,Midwater Pair Trawler,1442367463,Trawler
+275200000,111974,Trawler,Midwater Pair Trawler,1435709320,Trawler
+275210000,100958,Trawler,Midwater Pair Trawler,1435717630,Trawler
+275218000,125423,Trawler,Midwater Pair Trawler,1435724508,Trawler
+275220000,117593,Trawler,Midwater Pair Trawler,1442311427,Trawler
+275221000,128236,Trawler,Midwater Pair Trawler,1436611240,Trawler
+275223000,124229,Trawler,Midwater Pair Trawler,1435709227,Trawler
+275228000,101743,Trawler,Midwater Pair Trawler,1435757038,Trawler
+275230000,102719,Trawler,Midwater Pair Trawler,1441291996,Trawler
+275231000,127617,Trawler,Midwater Pair Trawler,1435709128,Trawler
+275232000,127272,Trawler,Midwater Pair Trawler,1435711310,Trawler
+275238000,125532,Trawler,Midwater Pair Trawler,1435840121,Trawler
+275247000,110345,Trawler,Midwater Pair Trawler,1435711967,Trawler
+275258000,116428,Trawler,Midwater Pair Trawler,1442894941,Trawler
+275268000,110132,Trawler,Midwater Pair Trawler,1435709163,Trawler
+275271000,100221,Trawler,Midwater Pair Trawler,1435709102,Trawler
+275272000,129812,Trawler,Midwater Pair Trawler,1435837912,Trawler
+275273000,131707,Trawler,Midwater Pair Trawler,1435710804,Trawler
+275312000,104215,Trawler,Bottom Otter Trawler,1435708905,Trawler
+275412000,125109,Trawler,Midwater Pair Trawler,1435928221,Trawler
+275416000,122356,Trawler,Midwater Pair Trawler,1435708950,Trawler
+275420000,125970,Trawler,Bottom Otter Trawler,1436432417,Trawler
+275424000,118234,Trawler,Midwater Pair Trawler,1435719963,Trawler
+275425000,115465,Trawler,Midwater Pair Trawler,1435709731,Trawler
+276152000,121875,Trawler,Midwater Pair Trawler,1438008525,Trawler
+276182000,102175,Trawler,Midwater Pair Trawler,1436015720,Trawler
+276187000,102685,Trawler,Midwater Pair Trawler,1435997713,Trawler
+276282000,117296,Trawler,Midwater Pair Trawler,1435709558,Trawler
+276299000,101423,Trawler,Midwater Pair Trawler,1436020906,Trawler
+276370000,120448,Trawler,Midwater Pair Trawler,1435709856,Trawler
+276371000,102803,Trawler,Midwater Pair Trawler,1435709489,Trawler
+276381000,116277,Trawler,Midwater Pair Trawler,1435709072,Trawler
+276385000,120317,Trawler,Midwater Pair Trawler,1436811298,Trawler
+276458000,129393,Trawler,Midwater Pair Trawler AND BottomPairTrawler,1435712580,Trawler
+276598000,118683,Trawler,Midwater Pair Trawler,1443024786,Trawler
+276643000,108785,Trawler,Midwater Pair Trawler,1435708919,Trawler
+276761000,129054,Trawler,Midwater Pair Trawler,1435780550,Trawler
+276785000,108864,Trawler,Midwater Otter Trawler,1435708864,Trawler
+276787000,106039,Trawler,Midwater Otter Trawler,1435709036,Trawler
+276790000,125398,Trawler,Midwater Pair Trawler,1436949726,Trawler
+276811000,131030,Trawler,Midwater Pair Trawler,1435744828,Trawler
+276825000,115545,Trawler,Midwater Pair Trawler AND BottomPairTrawler,1439815099,Trawler
+277312000,122371,Fishing Support Vessel,Fish Carrier,1435709783,Support
+277327000,110598,Fishing Support Vessel,Fish Carrier,1435714046,Support
+277330000,126280,Trawler,Trawler,1435714947,Trawler
+277336000,111627,Trawler,Midwater Pair Trawler AND Bottom Otter Trawler,1435709043,Trawler
+277380000,124176,Fishing Support Vessel,Fish Carrier,1435709028,Support
+277397000,122224,Fishing Support Vessel,Fish Carrier,1435712675,Support
+277506000,131921,Trawler,Trawler,1435813575,Trawler
+277510000,113835,Trawler,Midwater Pair Trawler,1435709180,Trawler
+277524000,101808,Trawler,Midwater Pair Trawler,1435721904,Trawler
+303158000,118153,Trawler,Trawler,1435709005,Trawler
+303159000,108261,Trawler,Trawler,1435709127,Trawler
+303303000,118025,Trawler,Trawler,1435709538,Trawler
+303328000,110496,Trawler,Trawler,1435708888,Trawler
+303345000,121107,Purse Seiner,Single Purse Seine,1442475691,Seiner
+303428000,105165,Trawler,Trawler,1435708910,Trawler
+303429000,127540,Trawler,Trawler,1436748091,Trawler
+303636000,100457,Trawler,Trawler,1435709154,Trawler
+303648000,111984,Trawler,Trawler,1435708908,Trawler
+303679000,116864,Trawler,Trawler,1440186149,Trawler
+303684000,118236,Trawler,Trawler,1435709070,Trawler
+306034000,120007,Purse Seiner,Purse Seiner,1442321482,Seiner
+306094000,118383,Purse Seiner,Purse Seiner,1436392001,Seiner
+306497000,105170,Fishing Support Vessel,Fish Carrier,1435710446,Support
+306783000,122030,Purse Seiner,Purse Seiner,1435720339,Seiner
+306796000,105613,Fishing Support Vessel,Fish Carrier,1435709412,Support
+306862000,121885,Fishing Support Vessel,Fish Carrier,1435712716,Support
+306872000,114907,Fishing Support Vessel,Fish Carrier,1435709373,Support
+308228000,106154,Fishing Support Vessel,Fish Carrier,1435712690,Support
+308541000,126769,Fishing Support Vessel,Fish Carrier,1435709241,Support
+308868000,111204,Fishing Support Vessel,Fish Carrier,1435712669,Support
+309681000,116672,Fishing Support Vessel,Fish Carrier,1435708971,Support
+309689000,115184,Fishing Support Vessel,Fish Carrier,1435712713,Support
+311004000,119981,Fishing Support Vessel,Fish Carrier,1435708901,Support
+311009600,121501,Fishing Support Vessel,Fish Carrier,1435712686,Support
+311009700,102053,Fishing Support Vessel,Fish Carrier,1435709571,Support
+311011400,107973,Fishing Support Vessel,Fish Carrier,1435719977,Support
+311040500,131902,Fishing Support Vessel,Fish Carrier,1435709118,Support
+311043800,108824,Fishing Support Vessel,Fish Carrier,1435727145,Support
+311449000,116164,Fishing Support Vessel,Fish Carrier,1435713644,Support
+311461000,101399,Fishing Support Vessel,Fish Carrier,1435709289,Support
+312590000,102059,Purse Seiner,Purse Seiner,1436265498,Seiner
+316001012,131341,Troller,Troller,1439658088,Other
+316001649,107937,Troller,Troller,1435709635,Other
+316002950,113413,Pole and Line,Handliner,1435709324,Other
+316005100,124752,Trawler,Trawler,1435709416,Trawler
+316006888,132499,Troller,Troller,1435710406,Other
+338000000,104071,Purse Seiner,Tuna purse seiner,1435720240,Seiner
+338013000,119005,Purse Seiner,Tuna purse seiner,1436930821,Seiner
+338074000,111949,Purse Seiner,Single Purse Seine,1435709902,Seiner
+338097119,124354,Pole and Line,Hook and Line,1437778531,Other
+338132000,128961,Trawler,Trawler,1435709017,Trawler
+338162000,124812,Trawler,Trawler,1435709123,Trawler
+338165129,127374,Trawler,Trawler,1435709306,Trawler
+338188519,125519,Pole and Line,Pole and Line,1436465495,Other
+338191647,103621,Pole and Line,Pole and Line,1435853223,Other
+338271000,108804,Trawler,Trawler,1435709301,Trawler
+338287000,132487,Troller,Troller,1435709223,Other
+338296000,116487,Trawler,Trawler,1435709027,Trawler
+338381000,117475,Longliner,Longliner,1435813617,Longliner
+338382000,110457,Longliner,Longliner,1436320710,Longliner
+338417000,119003,Trawler,Trawler,1435709284,Trawler
+338494100,101030,Trawler,Trawler,1435708880,Trawler
+338568000,114716,Trawler,Trawler,1435709214,Trawler
+338603000,122099,Trawler,Trawler,1435714557,Trawler
+338712000,111226,Purse Seiner,Single Purse Seine,1435709940,Seiner
+338793000,113124,Purse Seiner,Single Purse Seine,1438811797,Seiner
+338873000,104443,Purse Seiner,Single Purse Seine,1440102316,Seiner
+350107000,111688,Purse Seiner,Single Purse Seine,1435710042,Seiner
+351238000,109798,Fishing Support Vessel,Fish Carrier,1435708965,Support
+351350000,118774,Fishing Support Vessel,FISH CARRIER,1435714840,Support
+351478000,128449,Fishing Support Vessel,Fish Carrier,1435709079,Support
+351763000,125535,Fishing Support Vessel,FISH CARRIER,1435709041,Support
+352085000,112232,Fishing Support Vessel,FISH CARRIER,1435711066,Support
+352241000,109181,Fishing Support Vessel,Fish Carrier,1435709121,Support
+352247000,101965,Fishing Support Vessel,Fish Carrier,1435709380,Support
+352349000,100151,Fishing Support Vessel,Fish Carrier,1435709135,Support
+352351000,115924,Fishing Support Vessel,Fish Carrier,1435708874,Support
+352408000,128045,Fishing Support Vessel,Fish Carrier,1435720181,Support
+352475000,103775,Fishing Support Vessel,FISH CARRIER,1435709938,Support
+352515000,127792,Fishing Support Vessel,Fish Carrier,1435712672,Support
+352545000,131809,Fishing Support Vessel,Fish Carrier,1435709555,Support
+352577000,130858,Purse Seiner,Purse Seiner,1435724443,Seiner
+352784000,118477,Fishing Support Vessel,Fish Carrier,1435719920,Support
+352796000,108223,Fishing Support Vessel,FISH CARRIER,1435714645,Support
+352844000,107699,Fishing Support Vessel,FISH CARRIER,1435742934,Support
+352894000,121382,Fishing Support Vessel,Fish Carrier,1435738134,Support
+353019000,110518,Fishing Support Vessel,Fish Carrier,1435731537,Support
+353038000,108097,Purse Seiner,Purse Seiner,1435709622,Seiner
+353171000,118862,Purse Seiner,Purse Seiner,1435709123,Seiner
+353185000,116975,Fishing Support Vessel,FISH CARRIER,1435709713,Support
+353242000,112096,Fishing Support Vessel,Fish Carrier,1436782161,Support
+353306000,101342,Fishing Support Vessel,Fish Carrier,1435709077,Support
+353937000,105985,Fishing Support Vessel,Fish Carrier,1435710125,Support
+354062000,113752,Fishing Support Vessel,FISH CARRIER,1435709765,Support
+354240000,128327,Fishing Support Vessel,Fish Carrier,1435709279,Support
+354469000,125293,Fishing Support Vessel,FISH CARRIER,1435711199,Support
+354493000,111302,Fishing Support Vessel,FISH CARRIER,1435736292,Support
+354655000,125349,Fishing Support Vessel,Fish Carrier,1435728445,Support
+354683000,122567,Fishing Support Vessel,FISH CARRIER,1435711402,Support
+354716000,132642,Fishing Support Vessel,FISH CARRIER,1435708851,Support
+354871000,130492,Fishing Support Vessel,Fish Carrier,1435740665,Support
+354874000,116683,Fishing Support Vessel,FISH CARRIER,1435709868,Support
+355141000,118171,Fishing Support Vessel,FISH CARRIER,1435875411,Support
+355199000,128430,Fishing Support Vessel,FISH CARRIER,1435738212,Support
+355295000,104051,Fishing Support Vessel,FISH CARRIER,1437287563,Support
+355317000,107397,Fishing Support Vessel,Fish Carrier,1435718679,Support
+355636000,117886,Fishing Support Vessel,Support Vessel,1435709050,Support
+355643000,117632,Fishing Support Vessel,FISH CARRIER,1435709825,Support
+355794000,129153,Fishing Support Vessel,Fish Carrier,1436733967,Support
+355802000,102624,Fishing Support Vessel,Fish Carrier,1435772316,Support
+355855000,116747,Fishing Support Vessel,Fish Carrier,1435709156,Support
+355874000,124431,Fishing Support Vessel,FISH CARRIER,1436583951,Support
+355909000,109404,Fishing Support Vessel,BUNKER,1436121453,Support
+355966000,114319,Fishing Support Vessel,FISH CARRIER,1435709770,Support
+356386000,106600,Fishing Support Vessel,FISH CARRIER,1435711486,Support
+356517000,110422,Fishing Support Vessel,Fish Carrier,1435709142,Support
+356567000,128389,Fishing Support Vessel,FISH CARRIER,1435912435,Support
+356591000,117636,Fishing Support Vessel,FISH CARRIER,1435709765,Support
+356609000,107305,Fishing Support Vessel,Fish Carrier,1436031727,Support
+356616000,107500,Fishing Support Vessel,Fish Carrier,1435709053,Support
+356636000,114930,Fishing Support Vessel,Fish Carrier,1435709390,Support
+356728000,126064,Fishing Support Vessel,Fish Carrier,1435712702,Support
+356889000,105498,Fishing Support Vessel,FISH CARRIER,1435711030,Support
+356962000,114475,Fishing Support Vessel,Fish Carrier,1435709303,Support
+357020000,116214,Fishing Support Vessel,FISH CARRIER,1435715758,Support
+357058000,119555,Fishing Support Vessel,FISH CARRIER,1435736605,Support
+357497000,112839,Fishing Support Vessel,FISH CARRIER,1435743389,Support
+357735000,118447,Fishing Support Vessel,Fish Carrier,1435712921,Support
+357805000,110992,Fishing Support Vessel,Fish Carrier,1435915965,Support
+359001000,102284,Purse Seiner,Single Purse Seine,1437831840,Seiner
+359002000,114749,Purse Seiner,Single Purse Seine,1437470284,Seiner
+359003000,100599,Purse Seiner,Tuna purse seiner,1439114069,Seiner
+359004000,128057,Purse Seiner,Tuna purse seiner,1437391224,Seiner
+361001100,127783,Longliner,Longliner,1435709687,Longliner
+365878412,111538,Purse Seiner,Single Purse Seine,1435709930,Seiner
+366020000,117036,Purse Seiner,Single Purse Seine,1435709947,Seiner
+366046000,129241,Trawler,Trawler,1435714475,Trawler
+366207630,102216,Trawler,Trawler,1435709272,Trawler
+366207650,129782,Trawler,Trawler,1435709763,Trawler
+366218540,128570,Pole and Line,Pole and Line,1435718290,Other
+366218620,107276,Pole and Line,Pole and Line,1435708940,Other
+366222330,130127,Trawler,Trawler,1435709029,Trawler
+366233570,130880,Trawler,Trawler,1435774753,Trawler
+366264360,115276,Trawler,Trawler,1435709514,Trawler
+366398180,131594,Longliner,Longliner,1436912186,Longliner
+366408250,118533,Trawler,Trawler,1435709153,Trawler
+366425240,105574,Trawler,Trawler,1435713896,Trawler
+366468000,129559,Trawler,Trawler,1435709368,Trawler
+366743980,104639,Trawler,Trawler,1435708947,Trawler
+366744320,104346,Trawler,Trawler,1435721799,Trawler
+366765940,117455,Trawler,Trawler,1435709674,Trawler
+366773410,108738,Troller,Troller,1436361922,Other
+366794430,108128,Pole and Line,Pole and Line,1435724307,Other
+366804620,108525,Trawler,Trawler,1435708923,Trawler
+366886330,126346,Pole and Line,Pole and Line,1438757638,Other
+366899520,125485,Trawler,Trawler,1435709101,Trawler
+366903000,103309,Purse Seiner,Single Purse Seine,1435709995,Seiner
+366936280,106041,Trawler,Trawler,1435709006,Trawler
+366946000,122055,Trawler,Trawler,1435709021,Trawler
+366951350,108191,Longliner,Longliner,1435714293,Longliner
+366954430,128958,Trawler,Trawler,1435709156,Trawler
+366969110,127999,Trawler,Trawler,1435710010,Trawler
+366978060,125310,Trawler,Trawler,1435708903,Trawler
+366978110,128465,Trawler,Trawler,1435709012,Trawler
+366979610,112481,Trawler,Trawler,1435709245,Trawler
+367008260,101397,Longliner,Longliner,1435709361,Longliner
+367019950,119767,Trawler,Trawler,1435709157,Trawler
+367032060,119560,Trawler,Trawler,1435708819,Trawler
+367037240,103984,Trawler,Trawler,1435708892,Trawler
+367040470,131244,Pole and Line,Hook and Line,1435787161,Other
+367050490,109370,Pole and Line,Pole and Line,1435709082,Other
+367056452,124603,Trawler,Trawler,1435709180,Trawler
+367056454,114815,Trawler,Trawler,1436909107,Trawler
+367060330,105904,Trawler,Trawler,1435709083,Trawler
+367070360,115969,Trawler,Trawler,1435709487,Trawler
+367078130,123107,Trawler,Trawler,1435708921,Trawler
+367079950,123678,Trawler,Trawler,1435709053,Trawler
+367082010,131192,Trawler,Trawler,1435708990,Trawler
+367083560,110358,Trawler,Trawler,1435709244,Trawler
+367084000,120734,Purse Seiner,Single Purse Seine,1435709949,Seiner
+367084590,111353,Trawler,Trawler,1435708800,Trawler
+367085290,130957,Trawler,Trawler,1435709646,Trawler
+367086760,113351,Trawler,Trawler,1435709491,Trawler
+367088480,125229,Trawler,Trawler,1435736988,Trawler
+367092390,112148,Longliner,Longliner,1437781211,Longliner
+367104150,117832,Pole and Line,Pole and Line,1435868959,Other
+367108560,110563,Trawler,Trawler,1435709240,Trawler
+367108570,111241,Trawler,Trawler,1435709107,Trawler
+367119910,108567,Trawler,Trawler,1435735903,Trawler
+367124070,124322,Trawler,Trawler,1435714524,Trawler
+367129120,131022,Pole and Line,Pole and Line,1441221681,Other
+367134180,118845,Troller,Troller,1437598116,Other
+367134190,103218,Trawler,Trawler,1436059204,Trawler
+367147830,130542,Trawler,Trawler,1435709105,Trawler
+367153430,107852,Trawler,Trawler,1435709001,Trawler
+367155110,106013,Trawler,Trawler,1435708883,Trawler
+367156340,127828,Trawler,Trawler,1435709712,Trawler
+367159580,131956,Trawler,Trawler,1435709254,Trawler
+367161000,119130,Trawler,Trawler,1435749346,Trawler
+367161350,121222,Trawler,Trawler,1435709040,Trawler
+367161930,112348,Trawler,Trawler,1435711995,Trawler
+367162190,105207,Trawler,Trawler,1435709530,Trawler
+367170000,112249,Purse Seiner,Single Purse Seine,1435709962,Seiner
+367171990,119928,Trawler,Trawler,1435709279,Trawler
+367176750,117789,Trawler,Trawler,1435736717,Trawler
+367179000,122917,Purse Seiner,Single Purse Seine,1436619149,Seiner
+367182240,111016,Trawler,Trawler,1435709031,Trawler
+367187080,113972,Trawler,Trawler,1435708852,Trawler
+367197230,105179,Troller,Troller,1435709239,Other
+367309390,113115,Trawler,Trawler,1435709031,Trawler
+367317000,127557,Trawler,Trawler,1435709242,Trawler
+367320010,107113,Trawler,Trawler,1435708988,Trawler
+367324020,131290,Troller,Troller,1435709647,Other
+367324430,103438,Trawler,Trawler,1435709295,Trawler
+367326360,123185,Trawler,Trawler,1435708910,Trawler
+367330860,105024,Trawler,Trawler,1435709106,Trawler
+367332000,102346,Trawler,Trawler,1435709128,Trawler
+367340120,124951,Pole and Line,Hook and Line,1435709209,Other
+367341970,119351,Trawler,Trawler,1436394327,Trawler
+367344000,119564,Purse Seiner,Single Purse Seine,1435709775,Seiner
+367347000,108521,Troller,Troller,1435709094,Other
+367354000,116260,Trawler,Trawler,1435709075,Trawler
+367355000,126806,Trawler,Trawler,1435709082,Trawler
+367359220,110659,Purse Seiner,Tuna purse seiner,1435710244,Seiner
+367372000,128303,Trawler,Trawler,1435709039,Trawler
+367405000,121774,Trawler,Trawler,1435980781,Trawler
+367433770,103189,Trawler,Trawler,1435708990,Trawler
+367450580,124244,Trawler,Trawler,1435709182,Trawler
+367463000,123712,Purse Seiner,Single Purse Seine,1435709949,Seiner
+367466000,124268,Pole and Line,Pole and line,1435709038,Other
+367466760,100093,Troller,Troller,1435709589,Other
+367478000,125929,Trawler,Trawler,1435742467,Trawler
+367479000,125307,Trawler,Trawler,1435709094,Trawler
+367485680,130206,Longliner,Tuna longliner,1435719548,Longliner
+367490000,128477,Trawler,Trawler,1435709065,Trawler
+367502180,130148,Pole and Line,Pole and Line,1435954034,Other
+367512170,101763,Pole and Line,Pole and line,1435709276,Other
+367512180,119169,Pole and Line,Pole and line,1435709785,Other
+367512510,129065,Pole and Line,Pole and line,1435709637,Other
+367528000,126069,Trawler,Trawler,1435709063,Trawler
+367534310,117221,Pole and Line,Pole and line,1437696765,Other
+367538000,121464,Trawler,Trawler,1435709043,Trawler
+367544000,124755,Trawler,Trawler,1435708870,Trawler
+367544180,127334,Trawler,Trawler,1435709349,Trawler
+367563000,117365,Trawler,Trawler,1435709212,Trawler
+367571490,116222,Longliner,Tuna longliner,1435835600,Longliner
+367603000,126809,Trawler,Trawler,1435709053,Trawler
+367603130,109583,Trawler,Trawler,1435726182,Trawler
+367638480,126485,Trawler,Trawler,1435709776,Trawler
+367659000,121629,Trawler,Trawler,1435709061,Trawler
+367662190,108782,Trawler,Trawler,1435709836,Trawler
+367666000,118299,Purse Seiner,Single Purse Seine,1435710215,Seiner
+367683890,114074,Trawler,Trawler,1436990920,Trawler
+367694000,102268,Trawler,Trawler,1435708839,Trawler
+367704000,101633,Pole and Line,Pole and Line,1435928471,Other
+367721000,123844,Troller,Troller,1435708895,Other
+367729000,108891,Trawler,Trawler,1435709307,Trawler
+367730000,118706,Trawler,Trawler,1435708915,Trawler
+367767000,124479,Purse Seiner,Single Purse Seine,1435709999,Seiner
+367774000,112934,Trawler,Trawler,1435708994,Trawler
+368046000,114581,Purse Seiner,Single Purse Seine,1435709956,Seiner
+368085000,106741,Trawler,Trawler,1435714471,Trawler
+368158000,124765,Trawler,Trawler,1435708973,Trawler
+368206000,106822,Trawler,Trawler,1435708958,Trawler
+368371000,130142,Trawler,Trawler,1435709225,Trawler
+368409000,123383,Trawler,Trawler,1435709332,Trawler
+368412000,127814,Trawler,Trawler,1435709056,Trawler
+368446000,119626,Longliner,Longliner,1436070804,Longliner
+368489000,129431,Purse Seiner,Single Purse Seine,1435709993,Seiner
+368565000,104675,Trawler,Trawler,1435709303,Trawler
+368578000,107072,Trawler,Trawler,1435709427,Trawler
+368698000,128661,Trawler,Trawler,1435714557,Trawler
+369354000,110088,Pole and Line,Hook and Line,1435945255,Other
+369511000,116098,Trawler,Trawler,1435709243,Trawler
+369515000,114092,Trawler,Trawler,1435709302,Trawler
+369516000,100813,Trawler,Trawler,1435709239,Trawler
+369531000,102184,Trawler,Trawler,1435709062,Trawler
+369546000,129898,Trawler,Trawler,1435709301,Trawler
+370070000,120537,Fishing Support Vessel,Fish Carrier,1435709359,Support
+370115000,103939,Fishing Support Vessel,Fish Carrier,1435708808,Support
+370178000,130673,Fishing Support Vessel,BUNKER,1435709115,Support
+370599000,129189,Fishing Support Vessel,Fish Carrier,1435720391,Support
+370981000,104519,Fishing Support Vessel,FISH CARRIER,1435715136,Support
+371156000,104794,Fishing Support Vessel,Fish Carrier,1435712788,Support
+371335000,126045,Fishing Support Vessel,FISH CARRIER,1435709169,Support
+371596000,117742,Fishing Support Vessel,BUNKER,1435720108,Support
+371789000,111711,Purse Seiner,Purse Seiner,1435726075,Seiner
+371790000,108878,Fishing Support Vessel,FISH CARRIER,1435709412,Support
+371812000,110211,Fishing Support Vessel,Fish Carrier,1435711402,Support
+372199000,111440,Fishing Support Vessel,Fish Carrier,1435709969,Support
+372910000,113761,Fishing Support Vessel,FISH CARRIER,1435720224,Support
+373443000,123970,Fishing Support Vessel,Fish Carrier,1435715039,Support
+374014000,126303,Fishing Support Vessel,FISH CARRIER,1441780036,Support
+374573000,122708,Purse Seiner,Purse Seiner,1438204529,Seiner
+374611000,127991,Fishing Support Vessel,Fish Carrier,1440699738,Support
+412201849,102651,Longliner,Longliner,1435710045,Longliner
+412209233,103033,Longliner,Longliner,1435710124,Longliner
+412217989,111262,Purse Seiner,Single Purse Seine,1435709931,Seiner
+412217991,109515,Purse Seiner,Single Purse Seine,1435709952,Seiner
+412270001,106945,Longliner,Tuna longliner,1435712679,Longliner
+412270024,112630,Purse Seiner,Single Purse Seine,1437903061,Seiner
+412270057,130018,Longliner,Longliner,1436507988,Longliner
+412283999,116775,Longliner,Longliner,1435966820,Longliner
+412322340,132557,Fishing Support Vessel,FISH CARRIER,1435893698,Support
+412328729,102996,Purse Seiner,Purse Seiner,1436235852,Seiner
+412328731,102672,Purse Seiner,Tuna purse seiner,1435708886,Seiner
+412329402,103333,Longliner,Longliner,1436135520,Longliner
+412329403,108650,Longliner,Longliner,1435749712,Longliner
+412370007,114112,Longliner,Tuna longliner,1435737584,Longliner
+412370008,119874,Longliner,Tuna longliner,1435766312,Longliner
+412371178,100150,Longliner,Longliner,1435737571,Longliner
+412371181,124471,Purse Seiner,Single Purse Seine,1435709982,Seiner
+412371182,125410,Purse Seiner,Single Purse Seine,1435709837,Seiner
+412371194,114668,Purse Seiner,Single Purse Seine,1435709932,Seiner
+412371197,132551,Longliner,Longliner,1435709938,Longliner
+412371198,105554,Longliner,Longliner,1435709950,Longliner
+412420877,108702,Longliner,Longliner,1436878207,Longliner
+412420913,109391,Longliner,Longliner,1435726525,Longliner
+412439604,119244,Purse Seiner,Single Purse Seine,1437030966,Seiner
+412439605,100380,Purse Seiner,Single Purse Seine,1436052988,Seiner
+412439607,111581,Purse Seiner,Single Purse Seine,1435709861,Seiner
+412460002,110495,Longliner,Longliner,1435710104,Longliner
+412926000,100888,Purse Seiner,Single Purse Seine,1435709948,Seiner
+412946000,115056,Fishing Support Vessel,FISH CARRIER,1436770163,Support
+413270220,117697,Longliner,Tuna longliner,1435713819,Longliner
+413270430,104324,Longliner,Tuna longliner,1436504069,Longliner
+413692650,103935,Fishing Support Vessel,FISH CARRIER,1435709763,Support
+416000189,107032,Longliner,Tuna longliner,1436143702,Longliner
+416000237,131933,Longliner,Tuna longliner,1435841432,Longliner
+416000301,120572,Longliner,Tuna longliner,1435715309,Longliner
+416000398,113389,Longliner,Tuna longliner,1437091519,Longliner
+416000464,112140,Longliner,Tuna longliner,1437276420,Longliner
+416000592,102424,Longliner,Tuna longliner,1439741222,Longliner
+416000761,116201,Longliner,Tuna longliner,1436230868,Longliner
+416000776,109117,Longliner,Tuna longliner,1441183934,Longliner
+416000784,106350,Longliner,Tuna longliner,1437878918,Longliner
+416000934,125999,Longliner,Tuna longliner,1435841298,Longliner
+416000936,103058,Longliner,Tuna longliner,1437270629,Longliner
+416000974,103680,Longliner,Tuna longliner,1435711263,Longliner
+416000976,124687,Longliner,Tuna longliner,1437624020,Longliner
+416001224,105979,Longliner,Tuna longliner,1435747897,Longliner
+416001354,107520,Longliner,Tuna longliner,1436698702,Longliner
+416001486,104491,Longliner,Tuna longliner,1436694251,Longliner
+416001491,101282,Longliner,Tuna longliner,1440425018,Longliner
+416001500,121531,Purse Seiner,Single Purse Seine,1435709451,Seiner
+416001800,112970,Purse Seiner,Tuna purse seiner,1441352367,Seiner
+416001833,107437,Longliner,Tuna longliner,1436143605,Longliner
+416001900,124632,Fishing Support Vessel,FISH CARRIER,1435851962,Support
+416001986,115947,Longliner,Tuna longliner,1437089270,Longliner
+416002216,130861,Longliner,Tuna longliner,1435902144,Longliner
+416002675,113385,Longliner,Tuna longliner,1435736458,Longliner
+416002755,113289,Longliner,Tuna longliner,1435866639,Longliner
+416002779,106290,Longliner,Tuna longliner,1435721571,Longliner
+416003071,103074,Longliner,Tuna longliner,1435709447,Longliner
+416004058,100842,Longliner,Tuna longliner,1435865334,Longliner
+416004197,129797,Longliner,Tuna longliner,1437964027,Longliner
+416004344,124913,Longliner,Tuna longliner,1435821832,Longliner
+416016600,112859,Purse Seiner,Tuna purse seiner,1437015924,Seiner
+416017500,127709,Purse Seiner,Purse Seiner,1435710033,Seiner
+416035800,126519,Longliner,Longliner,1441417887,Longliner
+416043800,126702,Purse Seiner,Tuna purse seiner,1435709957,Seiner
+416194500,128745,Longliner,Tuna longliner,1435710497,Longliner
+416201800,116243,Longliner,Tuna longliner,1435732087,Longliner
+416209900,129247,Longliner,Tuna longliner,1437189312,Longliner
+416227600,100488,Longliner,Tuna longliner,1435906149,Longliner
+416233600,122506,Purse Seiner,Tuna purse seiner,1435709772,Seiner
+416234800,131805,Purse Seiner,Single Purse Seine,1443165939,Seiner
+416238700,114400,Purse Seiner,Purse Seiner,1435709769,Seiner
+416243600,130191,Purse Seiner,Purse Seiner,1435709853,Seiner
+416245700,101765,Longliner,Tuna longliner,1437573967,Longliner
+416247900,130291,Purse Seiner,Single Purse Seine,1435709467,Seiner
+416248600,118754,Purse Seiner,Single Purse Seine,1436843110,Seiner
+416248700,107506,Purse Seiner,Single Purse Seine,1442972223,Seiner
+416308000,111572,Fishing Support Vessel,FISH CARRIER,1435709542,Support
+416333000,114874,Longliner,Tuna longliner,1437500208,Longliner
+416411000,132635,Purse Seiner,Tuna purse seiner,1435709763,Seiner
+416532000,121030,Purse Seiner,Tuna purse seiner,1435715374,Seiner
+416542000,104593,Fishing Support Vessel,FISH CARRIER,1435763131,Support
+416569000,127441,Purse Seiner,Tuna purse seiner,1435710007,Seiner
+416574000,101764,Purse Seiner,Purse Seiner,1435710140,Seiner
+416696000,124719,Fishing Support Vessel,FISH CARRIER,1435714894,Support
+416702000,107279,Fishing Support Vessel,FISH CARRIER,1435728110,Support
+416730000,117556,Fishing Support Vessel,FISH CARRIER,1435718829,Support
+416778000,129128,Fishing Support Vessel,FISH CARRIER,1436152736,Support
+416836000,126229,Purse Seiner,Purse Seiner,1435743495,Seiner
+416891000,129365,Longliner,Longliner,1441415817,Longliner
+416894000,101991,Purse Seiner,Tuna purse seiner,1435709079,Seiner
+416899000,119203,Purse Seiner,Purse Seiner,1436853998,Seiner
+431022000,128931,Longliner,Tuna longliner,1435709693,Longliner
+431100850,100821,Purse Seiner,Single Purse Seine,1435715140,Seiner
+431116000,101632,Longliner,Tuna longliner,1435716264,Longliner
+431159000,107662,Purse Seiner,Single Purse Seine,1435709400,Seiner
+431187000,123956,Purse Seiner,Purse Seiner,1435883470,Seiner
+431200740,127521,Longliner,Tuna longliner,1438237039,Longliner
+431253000,118123,Longliner,Tuna longliner,1435716481,Longliner
+431331000,109368,Purse Seiner,Single Purse Seine,1435715060,Seiner
+431380000,122703,Longliner,Tuna longliner,1435710249,Longliner
+431382000,103811,Longliner,Tuna longliner,1435720161,Longliner
+431395000,103011,Longliner,Tuna longliner,1435712974,Longliner
+431399000,131210,Purse Seiner,Single Purse Seine,1435709204,Seiner
+431490000,132278,Longliner,Tuna longliner,1435726108,Longliner
+431500040,115231,Longliner,Tuna longliner,1435731658,Longliner
+431500470,118191,Longliner,Tuna longliner,1435709274,Longliner
+431500530,114376,Longliner,Tuna longliner,1435709695,Longliner
+431500911,123233,Pole and Line,Pole and line,1435771716,Other
+431602890,114838,Longliner,Tuna longliner,1442294561,Longliner
+431678000,130842,Fishing Support Vessel,Fish Carrier,1435709412,Support
+431693000,116209,Pole and Line,Pole and line,1435709254,Other
+431700550,129715,Longliner,Tuna longliner,1435709212,Longliner
+431701010,107004,Longliner,Tuna longliner,1435709514,Longliner
+431769000,128555,Pole and Line,Pole and line,1435715009,Other
+431770000,110123,Pole and Line,Pole and line,1436287036,Other
+431782000,102919,Longliner,Tuna longliner,1435715110,Longliner
+431801000,112683,Pole and Line,Pole and line,1435714986,Other
+431802000,131866,Longliner,Tuna longliner,1435709812,Longliner
+431812000,120371,Purse Seiner,Single Purse Seine,1435715329,Seiner
+431838000,118434,Longliner,Tuna longliner,1435711932,Longliner
+431853000,103316,Longliner,Tuna longliner,1435709750,Longliner
+431866000,128450,Purse Seiner,Single Purse Seine,1435757778,Seiner
+431869000,129678,Longliner,Tuna longliner,1435731713,Longliner
+431889000,111272,Longliner,Tuna longliner,1435712099,Longliner
+431914000,115140,Pole and Line,Pole and line,1435715262,Other
+431927000,103329,Longliner,Tuna longliner,1435712890,Longliner
+432228000,125220,Longliner,Tuna longliner,1435734159,Longliner
+432282000,125500,Longliner,Tuna longliner,1435716381,Longliner
+432343000,115464,Longliner,Tuna longliner,1435726169,Longliner
+432411000,108412,Longliner,Tuna longliner,1435711172,Longliner
+432447000,106303,Longliner,Tuna longliner,1435708957,Longliner
+432453000,119353,Longliner,Tuna longliner,1435709760,Longliner
+432461000,117810,Longliner,Tuna longliner,1435725972,Longliner
+432468000,114931,Longliner,Tuna longliner,1435726065,Longliner
+432549000,124745,Purse Seiner,Single Purse Seine,1435711050,Seiner
+432856000,123904,Longliner,Tuna longliner,1435709835,Longliner
+432918000,116630,Longliner,Tuna longliner,1435977152,Longliner
+432924000,108145,Longliner,Tuna longliner,1435976420,Longliner
+432936000,113036,Longliner,Tuna longliner,1435737375,Longliner
+432942000,125292,Longliner,Tuna longliner,1435710888,Longliner
+432948000,118587,Purse Seiner,Single Purse Seine,1435711020,Seiner
+432966000,103844,Purse Seiner,Single Purse Seine,1435709597,Seiner
+432971000,105559,Longliner,Tuna longliner,1435710264,Longliner
+432991000,129439,Longliner,Tuna longliner,1435712927,Longliner
+440014000,127283,Fishing Support Vessel,FISH CARRIER,1438150428,Support
+440053000,106532,Purse Seiner,Single Purse Seine,1435709937,Seiner
+440057000,106124,Fishing Support Vessel,FISH CARRIER,1435709994,Support
+440080000,129597,Fishing Support Vessel,BUNKER,1435709357,Support
+440101000,130929,Fishing Support Vessel,Fish Carrier,1435714097,Support
+440102000,117910,Fishing Support Vessel,FISH CARRIER,1435708820,Support
+440104000,127746,Purse Seiner,Single Purse Seine,1435709864,Seiner
+440113000,114152,Fishing Support Vessel,FISH CARRIER,1435709897,Support
+440170000,106644,Fishing Support Vessel,FISH CARRIER,1435991644,Support
+440195000,100080,Purse Seiner,Single Purse Seine,1435709848,Seiner
+440196000,102048,Fishing Support Vessel,FISH CARRIER,1435709950,Support
+440214000,110973,Fishing Support Vessel,FISH CARRIER,1437805337,Support
+440217000,122931,Fishing Support Vessel,FISH CARRIER,1435709882,Support
+440220000,106984,Fishing Support Vessel,Fish Carrier,1435709993,Support
+440222000,120443,Fishing Support Vessel,FISH CARRIER,1435709055,Support
+440226000,121023,Purse Seiner,Single Purse Seine,1435768390,Seiner
+440233000,100976,Purse Seiner,Single Purse Seine,1435709863,Seiner
+440237000,123711,Fishing Support Vessel,FISH CARRIER,1435709966,Support
+440241000,111493,Fishing Support Vessel,FISH CARRIER,1435710038,Support
+440257000,103593,Fishing Support Vessel,Fish Carrier,1435709945,Support
+440265000,117967,Fishing Support Vessel,BUNKER,1435709869,Support
+440283000,103114,Fishing Support Vessel,FISH CARRIER,1435709196,Support
+440444000,121021,Purse Seiner,Single Purse Seine,1435709985,Seiner
+440450000,102870,Purse Seiner,Single Purse Seine,1435710015,Seiner
+440517000,127061,Longliner,Tuna longliner,1436777812,Longliner
+440523000,116745,Fishing Support Vessel,FISH CARRIER,1435709467,Support
+440542000,102670,Purse Seiner,Single Purse Seine,1435709922,Seiner
+440552000,123872,Purse Seiner,Purse Seiner,1435709852,Seiner
+440575000,129164,Purse Seiner,Single Purse Seine,1435709971,Seiner
+440595000,118425,Longliner,Tuna longliner,1435726067,Longliner
+440617000,101947,Longliner,Tuna longliner,1435709320,Longliner
+440644000,122423,Purse Seiner,Purse Seiner,1435709991,Seiner
+440664000,118610,Fishing Support Vessel,FISH CARRIER,1435709004,Support
+440671000,130683,Purse Seiner,Single Purse Seine,1435710040,Seiner
+440704000,123357,Longliner,Tuna longliner,1435713172,Longliner
+440770000,129020,Longliner,Tuna longliner,1435731935,Longliner
+440773000,129831,Longliner,Longline,1435731579,Longliner
+440801000,112803,Longliner,Tuna longliner,1435710088,Longliner
+440809000,116409,Longliner,Tuna longliner,1435710073,Longliner
+440822000,129702,Purse Seiner,Single Purse Seine,1435709558,Seiner
+440823000,104101,Purse Seiner,Single Purse Seine,1435709875,Seiner
+440885000,103411,Longliner,Tuna longliner,1435710226,Longliner
+440886000,117441,Longliner,Tuna longliner,1435731990,Longliner
+440900000,120691,Longliner,Tuna longliner,1436164901,Longliner
+440944000,105487,Longliner,Tuna longliner,1435731969,Longliner
+440992000,107776,Longliner,Tuna longliner,1435710008,Longliner
+441024000,132644,Purse Seiner,Purse Seiner (one boat operated),1435709836,Seiner
+441043000,123307,Longliner,Tuna longliner,1435731868,Longliner
+441066000,112245,Purse Seiner,Single Purse Seine,1435709940,Seiner
+441166000,115586,Purse Seiner,Single Purse Seine,1435709837,Seiner
+441201727,116776,Longliner,Longliner,1435710161,Longliner
+441201728,124986,Longliner,Longline,1435710377,Longliner
+441201730,109057,Longliner,Longline,1435710248,Longliner
+441201731,129077,Longliner,Longline,1435710237,Longliner
+441201732,100453,Longliner,Longline,1435710150,Longliner
+441251000,123474,Longliner,Tuna longliner,1435736422,Longliner
+441377000,129516,Fishing Support Vessel,FISH CARRIER,1435821609,Support
+441446000,112599,Purse Seiner,Tuna purse seiner,1435709858,Seiner
+441493000,124203,Purse Seiner,Single Purse Seine,1435709904,Seiner
+441630000,113149,Fishing Support Vessel,BUNKER,1435710147,Support
+441675000,118349,Purse Seiner,Single Purse Seine,1435709919,Seiner
+441680000,108094,Longliner,Longline,1435731842,Longliner
+441690000,117819,Fishing Support Vessel,FISH CARRIER,1435709163,Support
+441720000,117770,Fishing Support Vessel,FISH CARRIER,1435709874,Support
+441734000,105902,Purse Seiner,Purse Seiner,1435728860,Seiner
+441759000,121223,Fishing Support Vessel,FISH CARRIER,1435994822,Support
+441811000,122545,Longliner,Tuna longliner,1435710025,Longliner
+441825000,115650,Longliner,Tuna longliner,1435726266,Longliner
+441853000,107299,Purse Seiner,Single Purse Seine,1435709998,Seiner
+441865000,128500,Purse Seiner,Purse Seiner,1437196635,Seiner
+441869000,123935,Longliner,Tuna longliner,1435710007,Longliner
+441910000,101018,Longliner,Longliner,1435709068,Longliner
+441922000,104893,Fishing Support Vessel,BUNKER,1435710105,Support
+441923000,102952,Fishing Support Vessel,FISH CARRIER,1435711205,Support
+441930000,114736,Purse Seiner,Single Purse Seine,1435709943,Seiner
+443200156,108320,Purse Seiner,Single Purse Seine,1435711862,Seiner
+452005511,105301,Purse Seiner,Single Purse Seine,1435709973,Seiner
+452976810,122141,Fishing Support Vessel,BUNKER,1435709977,Support
+503555500,127471,Longliner,Longliner,1435797329,Longliner
+503597400,109165,Longliner,Longliner,1435710655,Longliner
+503798900,123600,Longliner,Longliner,1435711475,Longliner
+510021000,115085,Fishing Support Vessel,FISH CARRIER,1435743673,Support
+510054000,131693,Purse Seiner,Single Purse Seine,1435709418,Seiner
+510056000,116345,Purse Seiner,Single Purse Seine,1435710065,Seiner
+510057000,117088,Purse Seiner,Single Purse Seine,1435709901,Seiner
+510060000,123793,Purse Seiner,Single Purse Seine,1435709888,Seiner
+510061000,110888,Purse Seiner,Single Purse Seine,1435709877,Seiner
+510062000,118654,Purse Seiner,Single Purse Seine,1435709906,Seiner
+518100013,111306,Fishing Support Vessel,BUNKER,1435722738,Support
+518100015,100292,Fishing Support Vessel,BUNKER,1435737808,Support
+520187000,111649,Longliner,Longliner,1435710131,Longliner
+529052000,126265,Fishing Support Vessel,FISH CARRIER,1435710119,Support
+529101000,126716,Fishing Support Vessel,FISH CARRIER,1435709832,Support
+529120000,112213,Fishing Support Vessel,FISH CARRIER,1435709774,Support
+529126000,127345,Fishing Support Vessel,Bunker,1435720259,Support
+529268000,130215,Fishing Support Vessel,FISH CARRIER,1440402906,Support
+529354000,115001,Fishing Support Vessel,FISH CARRIER,1435710015,Support
+529417000,114693,Purse Seiner,Single Purse Seine,1435709921,Seiner
+529435000,127087,Purse Seiner,Single Purse Seine,1435711063,Seiner
+529440000,110803,Purse Seiner,Single Purse Seine,1435763186,Seiner
+529469000,111200,Purse Seiner,Single Purse Seine,1435709924,Seiner
+529485000,122806,Fishing Support Vessel,FISH CARRIER,1435711117,Support
+529567000,103062,Fishing Support Vessel,FISH CARRIER,1435709767,Support
+529578000,107543,Fishing Support Vessel,FISH CARRIER,1435763048,Support
+529605000,132309,Fishing Support Vessel,FISH CARRIER,1435710061,Support
+529607000,119638,Fishing Support Vessel,FISH CARRIER,1435708890,Support
+529632000,105633,Fishing Support Vessel,Bunker,1435711094,Support
+529650000,128742,Fishing Support Vessel,Fish Carrier,1436333803,Support
+529687000,108656,Purse Seiner,Single Purse Seine,1435709876,Seiner
+529695000,120526,Purse Seiner,Single Purse Seine,1435709903,Seiner
+529729000,129488,Purse Seiner,Purse Seiner,1435710310,Seiner
+529736000,104751,Fishing Support Vessel,FISH CARRIER,1441002468,Support
+529758000,117273,Fishing Support Vessel,FISH CARRIER,1436102480,Support
+529764000,101414,Fishing Support Vessel,Fish Carrier,1435709635,Support
+529766000,124576,Fishing Support Vessel,Bunker,1435709832,Support
+529770000,125788,Fishing Support Vessel,BUNKER,1435711004,Support
+529771000,104049,Fishing Support Vessel,BUNKER,1435709946,Support
+529781000,113018,Fishing Support Vessel,FISH CARRIER,1438084210,Support
+529782000,126527,Fishing Support Vessel,BUNKER,1435711064,Support
+529783000,102437,Purse Seiner,Single Purse Seine,1435709956,Seiner
+529794000,124590,Fishing Support Vessel,BUNKER,1435731940,Support
+529837000,105885,Fishing Support Vessel,Support Vessel,1436323707,Support
+529839000,120858,Fishing Support Vessel,BUNKER,1437530399,Support
+533111749,121074,Purse Seiner,Single Purse Seine,1435709985,Seiner
+538002582,127333,Fishing Support Vessel,BUNKER,1435710283,Support
+538002960,127801,Fishing Support Vessel,FISH CARRIER,1435710042,Support
+538003209,127741,Fishing Support Vessel,Fish Carrier,1435709024,Support
+538004149,107497,Fishing Support Vessel,Bunker,1435731551,Support
+538004917,115035,Fishing Support Vessel,Bunker,1435708930,Support
+538005932,126867,Fishing Support Vessel,BUNKER,1435709822,Support
+538060004,109478,Purse Seiner,Single Purse Seine,1436262094,Seiner
+538060007,121113,Purse Seiner,Purse Seiner (one boat operated),1435709847,Seiner
+538060015,109275,Purse Seiner,Single Purse Seine,1435737720,Seiner
+538060016,114886,Purse Seiner,Single Purse Seine,1435709778,Seiner
+538060017,126800,Purse Seiner,Purse Seiner,1435709764,Seiner
+538060019,110239,Purse Seiner,Single Purse Seine,1435709769,Seiner
+540000670,126939,Longliner,Tuna longliner,1435710309,Longliner
+540001900,108517,Longliner,Tuna longliner,1435710260,Longliner
+540002100,102534,Longliner,Tuna longliner,1435710592,Longliner
+540002200,117414,Longliner,Tuna longliner,1435710259,Longliner
+540002300,113456,Longliner,Tuna longliner,1435710192,Longliner
+540003800,127569,Longliner,Tuna longliner,1435709287,Longliner
+540003900,116007,Longliner,Tuna longliner,1435709320,Longliner
+540004000,104319,Longliner,Tuna longliner,1435880681,Longliner
+540004100,106628,Longliner,Tuna longliner,1435710294,Longliner
+540004200,102403,Longliner,Tuna longliner,1439440910,Longliner
+540005000,115991,Longliner,Tuna longliner,1435710400,Longliner
+540010700,125566,Longliner,Tuna longliner,1435710240,Longliner
+540010800,126207,Longliner,Tuna longliner,1435710278,Longliner
+540011500,125192,Longliner,Tuna longliner,1435710360,Longliner
+548051500,127835,Purse Seiner,Single Purse Seine,1435710043,Seiner
+548831000,131287,Purse Seiner,Single Purse Seine,1435710928,Seiner
+548895000,115133,Purse Seiner,Single Purse Seine,1435711019,Seiner
+548905000,132759,Purse Seiner,Single Purse Seine,1435709917,Seiner
+553111698,123578,Purse Seiner,Single Purse Seine,1435709763,Seiner
+553111712,110882,Purse Seiner,Single Purse Seine,1435709997,Seiner
+553111733,112442,Purse Seiner,Single Purse Seine,1435709794,Seiner
+553111735,115421,Purse Seiner,Single Purse Seine,1435709776,Seiner
+553111738,122592,Purse Seiner,Single Purse Seine,1437544974,Seiner
+553111743,115558,Purse Seiner,Single Purse Seine,1435709875,Seiner
+553111744,108726,Purse Seiner,Single Purse Seine,1435709877,Seiner
+553111750,115182,Purse Seiner,Single Purse Seine,1435709785,Seiner
+553111756,104615,Purse Seiner,Single Purse Seine,1435709919,Seiner
+553111759,119277,Purse Seiner,Single Purse Seine,1439949460,Seiner
+553111764,103340,Purse Seiner,Purse seiner,1435710866,Seiner
+553111765,130665,Purse Seiner,Single Purse Seine,1435710850,Seiner
+553111771,131641,Purse Seiner,Single Purse Seine,1440398811,Seiner
+563418000,113285,Fishing Support Vessel,Fish Carrier,1435709159,Support
+572641210,102433,Fishing Support Vessel,Bunker,1436167712,Support
+576270000,125468,Fishing Support Vessel,FISH CARRIER,1435710603,Support
+576276000,108906,Fishing Support Vessel,FISH CARRIER,1435709828,Support
+576277000,101490,Fishing Support Vessel,FISH CARRIER,1435711022,Support
+576285000,104060,Fishing Support Vessel,FISH CARRIER,1435731562,Support
+576328000,106102,Fishing Support Vessel,Fish Carrier,1435712286,Support
+576414000,126459,Fishing Support Vessel,Fish Carrier,1435709757,Support
+576687000,100539,Fishing Support Vessel,Fish Carrier,1435709056,Support
+576688000,123010,Fishing Support Vessel,Fish Carrier,1435713825,Support
+576689000,102641,Fishing Support Vessel,FISH CARRIER,1435713749,Support
+576728000,125849,Fishing Support Vessel,FISH CARRIER,1435731881,Support
+576732000,121396,Fishing Support Vessel,Fish Carrier,1435722253,Support
+576850000,111188,Longliner,Tuna longliner,1437512774,Longliner
+576967000,117203,Fishing Support Vessel,BUNKER,1435726311,Support
+577077000,113281,Fishing Support Vessel,Fish Carrier,1435709689,Support
+577102000,113238,Fishing Support Vessel,Fish Carrier,1435708915,Support
+577105000,131633,Fishing Support Vessel,Fish Carrier,1435761194,Support
+577106000,110463,Fishing Support Vessel,FISH CARRIER,1435711180,Support
+577161000,132652,Fishing Support Vessel,Fish Carrier,1435709800,Support
+577315000,120855,Fishing Support Vessel,FISH CARRIER,1435722604,Support
+577324000,101561,Fishing Support Vessel,Fish Carrier,1435743523,Support
+601137200,129594,Pole and Line,Pole and Line,1435709732,Other
+617038000,127912,Purse Seiner,Purse Seiner,1435709048,Seiner
+617045000,121373,Purse Seiner,Purse Seiner,1436877196,Seiner
+617094000,130481,Purse Seiner,Purse Seiner,1435709004,Seiner
+617095000,106511,Purse Seiner,Purse Seiner,1436966160,Seiner
+619002000,129712,Purse Seiner,Purse Seiner,1435759847,Seiner
+627067000,132207,Purse Seiner,Purse Seiner,1435712660,Seiner
+627163000,115705,Pole and Line,Pole and Line,1435712559,Other
+636009737,130716,Fishing Support Vessel,Fish Carrier,1435793728,Support
+636013146,108069,Fishing Support Vessel,Support Vessel,1435709308,Support
+636013153,117717,Fishing Support Vessel,Support Vessel,1435734072,Support
+636013649,121635,Fishing Support Vessel,Fish Carrier,1435709150,Support
+636013651,105857,Fishing Support Vessel,Fish Carrier,1435708953,Support
+636015831,129663,Fishing Support Vessel,Support Vessel,1436463374,Support
+636016700,114496,Fishing Support Vessel,Fish Carrier,1435708811,Support
+636016916,100448,Fishing Support Vessel,Fish Carrier,1435710303,Support
+636016998,115500,Fishing Support Vessel,Fish Carrier,1435721189,Support
+636017004,101417,Fishing Support Vessel,Fish Carrier,1435708800,Support
+636091098,129476,Fishing Support Vessel,Fish Carrier,1435712705,Support
+636092421,123961,Fishing Support Vessel,Fish Carrier,1435709770,Support
+636092422,111218,Fishing Support Vessel,Fish Carrier,1435709264,Support
+636092423,117394,Fishing Support Vessel,Fish Carrier,1435708872,Support
+636092595,105645,Fishing Support Vessel,Support Vessel,1435720222,Support
+642167243,129923,Purse Seiner,Purse Seiner,1440581184,Seiner
+642525000,127343,Purse Seiner,Purse Seiner,1435730211,Seiner
+642711000,116368,Purse Seiner,Purse Seiner,1435709196,Seiner
+660000200,118648,Troller,Trolling Line,1435732767,Other
+660001800,129205,Purse Seiner,Purse Seiner,1438736543,Seiner
+660001900,116458,Purse Seiner,Purse Seiner,1435773437,Seiner
+660004300,108986,Purse Seiner,Purse Seiner,1435846083,Seiner
+660004900,109743,Purse Seiner,Purse Seiner,1438185891,Seiner
+660005100,116916,Purse Seiner,Purse Seiner,1435728762,Seiner
+663136000,104407,Purse Seiner,Purse Seiner,1437643723,Seiner
+672509000,127469,Fishing Support Vessel,Support Vessel,1438346446,Support
+672525000,126970,Fishing Support Vessel,Support Vessel,1435923698,Support
+735057587,116357,Purse Seiner,Tuna purse seiner,1435712763,Seiner
+735059089,130540,Purse Seiner,Single Purse Seine,1438021617,Seiner
+745004600,125133,Driftnet,Driftnet,1435752650,Other
+775610060,104763,Purse Seiner,Purse Seiner,1435708897,Seiner
+775613000,129566,Purse Seiner,Purse Seiner,1435726112,Seiner
+775615000,101089,Purse Seiner,Purse Seiner,1441152182,Seiner
+775616000,131215,Purse Seiner,Purse Seiner,1435709249,Seiner
+775626000,126708,Purse Seiner,Purse Seiner,1435720163,Seiner
+775627000,108665,Purse Seiner,Purse Seiner,1435709564,Seiner
+775628000,118322,Purse Seiner,Purse Seiner,1438052402,Seiner
+775630000,104043,Purse Seiner,Purse Seiner,1435725861,Seiner
+775993050,118796,Pole and Line,Pole and Line,1436211651,Other
+799999999,100846,Purse Seiner,Purse Seiner,1435730830,Seiner
+888802000,132118,Purse Seiner,Tuna purse seiner,1435728681,Seiner
