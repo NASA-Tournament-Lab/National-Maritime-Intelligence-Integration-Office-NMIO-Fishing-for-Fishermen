@@ -1,0 +1,139 @@
+[Summary]
+
+My final solution is a 50/50 blend between two similar models. Both of them are based on my own implementation of Gradient Based Regression Trees (GBRT). Models have slightly different parameters set and slightly different set of features used.
+
+I treat the problem as a simple binary classification (ignoring "Unknown" samples) and I use log loss (binary cross entropy) for the objective function when training models. Final output is a simple average between those two models, without any additional post-processing or hand-made adjustments.
+
+
+[Feature Extraction]
+
+Most of the generated features are either restricted to the sample, or are constant for each vessel. All of the features can be divided into following groups:
+
+1) Samples Features
+Those are the features that are directly contained within the sample. The single and most important feature here is sog (speed over ground). Interestingly enough, MMSI turned out to be a very strong feature, since first few digits identify the country that vessel originated from (and this was a strong predictor).
+
+2) Curve Features
+Very simple features based on the difference between current and previous/next vessel position. Contrary to basic intuition, it's very questionable if those features were helpful at all. They are included in only one of the models.
+
+3) ULS Features
+Those are features extracted from ULS (Universal Licensing System) database. They contain some additional data from vessel registered in USA.
+
+4) WCPFC features
+Features extracted from Western & Central Pacific Fisheries Commission (WCPFC) fishing vessels database. Very few vessel were present here, still it contained few vessel that weren't present in ULS database and didn't have "Fishing" set as its vessel type in Static AIS data.
+
+5) Global features
+Those are additional features that are precalculated for each block of the map. The premise behind those features is quite simple. I couldn't find any data that would contain areas rich in fishes, at the same time I thought such features would be highly valuable. As a workaround, I thought that since sog is such a strong predictor for fishing/not-fishing status, I assumed that calculating historical values related to speed/position, should somewhat correlate with the abundance of fishes in each area. Those features significantly improved my score both locally and on the provisional leaderboard, so I'd assume that they were quite useful.
+
+6) Static AIS features
+Features extracted from static AIS data based on MMSI. Those features are constant for each sample within the same MMSI. The single most important feature from here, is the vessel type.
+
+7) Static AIS "valid" features
+Another set of features extracted from static AIS data. Those features are named validXXX in my code, and the idea behind them is to calculate how often vessel reports valid data for some of the fields in AIS message. This set of features is also very questionable as I wasn't able to tell if this indeed improved my predictions. It's used in only one of the models.
+
+
+[GBRT Model]
+
+For GBRT I'm using my own implementation loosely based on Extremely Randomized Trees (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7485&rep=rep1&type=pdf). 
+
+
+[Decoding AIS]
+
+In order to decode AIS data (both static and "main") I used ais.py script from (https://github.com/ukyg9e5r6k7gubiekd6/gpsd/blob/master/devtools/ais.py), which appears to be one of the most popular scripts performing that. Both training and testing data didn't contain any errors. The only problem I found with testing data was that it sometimes missed exclamation mark ('!') at the beginning of the message.
+
+Decoding static data was little bit more tiresome, since it was missing checksums and it had several completely invalid entries (I found 19 invalid entries, but probably there were many more). In order to fix the problem with missing checksums I simply modified ais.py script to remove the checksum test :)
+
+It's worth mentioning that decoding static AIS data takes a lot of time, since ais.py isn't particularly fast (it's python after all) and the amount of data is rather significant. My workaround is rather simple: I only need to perform this once and then I'm exporting features to csv. During subsequent runs I'm simply reading 
+
+
+[External Data]
+
+I spent significant amount of time searching for external databases that I could use. From the start, it was very obvious that there are lots of websites that aggregates vessel information. Unfortunately, pretty much all of them are commercial and do not allow any form of web scraping their database (usually explicitly stating that in their terms of use, paywalling, robots.txt and/or user agreements). I wasn't able to find any website that would freely provide its data to users.
+
+Other ideas that I had was to find frequent regions for fishing and weather data (wind, surface current, temperature, cloudiness, etc.). All of data sources I could find required significant amount of work in order to parse and incorporate them, so I gave up. Especially, since it wasn't clear if they are going to help at all.
+
+Despite all of it, I found two external sources of data (already mentioned in features paragraph):
+
+1) WCPFC Record of Fishing Vessels 
+This is openly available data set. Here you can search through the dataset online: https://www.wcpfc.int/record-fishing-vessel-database/, and at the bottom of the page there's a link that dumps whole database into single CSV file: https://www.wcpfc.int/record-fishing-vessel-database/export.
+
+2) Universal Licensing System (http://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp)
+This website contains data about vessel's radio licenses, which interestingly enough, contains vessel type and few other useful entries. The downside is that it only contains licenses for vessels operating within USA territory (at least that's what I understood).
+
+Website doesn't provide any data export, but at the same time it allows for web scraping. I used selenium (http://www.seleniumhq.org/) script in order to extract information for all of the relevant MMSIs.
+
+
+[Fighting with Overfitting]
+
+This problem featured very high variance. In particular, training data rather weakly correlated with the provisional scoreboard. I speculated on possible reasons on TC forum: https://apps.topcoder.com/forums/?module=Thread&threadID=891569&start=0&mc=33#2154419.
+
+It's worth mentioning that locally I tested with 25 50/50 splits based on MMSI. My final solution averaged around 990-992K. Many of the changes that helped me locally reduced my score on the leaderboard. At the same time, some changes barely affected my score locally, but gave me significant improvements on the provisional score. In the first few days I submitted several almost identical solutions. And, while my local score were very stable, my submission score would often jump by 10-15K. Based on those observations, I approached leaderboard very skeptically. 
+
+There were several things I did in order to reduce potential overfitting:
+
+*) I used tree-based models, since they are known to not overfit. While GBRT overfits much more than average Random Forest, it's still rather safe approach, when shrinkage (learning rate) is set to low value.
+
+*) I avoided features that could affect small number of vessels. In particular, I refrained from extracting features from vessel's trail (movement) shape.
+
+*) Instead of engineering complex features, I opted for searching for external data.
+
+*) Occasionally, I used very brutal splits like 10/90 or even 5/95 while testing locally. This is equal to training on 50-100 vessels. Such unbalanced splits helped me with avoiding features that affected very small number of vessels.
+
+*) My final submission is averaged based on two (slightly) different models, which is a common technique that helps creating robust prediction models.
+
+*) I tried to avoid changes that didn't improve at least significantly either provisional or local scores (and preferably both). Sometimes, I submitted several very similar solutions, in order to see if the sudden jump in the rankings, was just some random fluke.
+
+*) It's also worth mentioning that my solution doesn't contain any features / hand-made adjustments that tried to force some specific behaviour of the model. 
+
+
+[Code]
+
+mltrees.cpp, mlutils.cpp, mlxgb.cpp, streams.cpp : files that are part of my standard library
+main.cpp : written specifically for this contest, handles feature generation, train&prediction, visualization and generation of intermediate files
+setup.sh : script that installs all of the required libraries/packages on VM and downloads training/testing data from TC server
+c.sh : script for compiling main.cpp
+usl_scraper.py : script for scraping ULS data, needs mmsiall.csv file present in order to run
+
+ais.py : external tool for decoding AIS data, slightly modified in order to remove error checking
+
+
+[Running]
+
+*) Running solution
+
+Place testing_data.csv, training_data.csv, static_reports_raw_corrected.csv, RFV_database_export.csv files in the same directory
+
+Run "c.sh" : compile main.cpp program (creates "sol" executable)
+
+Run "sol extract" : parses static_reports_raw_corrected.csv file using ais.py and creates 2 files: static_data_parsed.txt and static_data_errors.txt containing respectively parsed output and erroneous messages along with the line numbers.
+
+Run "sol staticsave" : optional step, that exports extracted features from static_data_parsed.txt and static_data_errors.txt to static_data_features.txt in binary format (despite what extension says); after running it once you can add "staticload" parameter to load static features from binary format (which saves a lot of time in case of multiple runs)
+
+sol [final] [staticload] [t THREADS_NO] [split SPLIT_SIZE] [runs FOLDS]
+final: without it, program is run in training mode, where it tests model on a series of random splits
+staticload: when present, reads static data from static_data_features.txt file
+t THREADS_NO: changes number of threads to THREADS_NO used when building GBRT model
+split SPLIT_SIZE: in training mode, sets the proportion between train and test data sets; value should between (0.0, 1.0)
+runs FOLDS: in training mode, changes number of random splits to be performed
+
+*) Scraping ULS
+
+If you wish to re-generate ULS data with new set of MMSIs, you have to perform following steps:
+
+Install selenium library for python.
+Install any webdriver. I used chromedriver under windows OS.
+Edit path to webdriver in usl_scraper.py.
+Run "sol [staticload] genmmsi" in order to generate mmsiall.csv file, which is needed by usl_scraper.py (usl_scraper loads it, in order to extract the required set of MMSIs).
+Run usl_scraper.py script, this takes a lot of time since I'm putting very small load on the website. Locally it took around 16 hours in order to go through all of MMSIs. This could be cut down severely by restricting MMSIs down to numbers specific to USA (I believe it's 300000000-370000000 range); the script will populate with usl directory with new data.
+
+
+[Additional Notes]
+
+*) As you may see, my model almost doesn't rely in any way on the time series aspect of the data. All of the samples are based on global data, data specific to particular sample or data that is specific to region where vessel currently exists. 
+
+There are several reasons for avoiding using features relying on the shape/curvature of the vessel's trip. First of all, sog + vessel type were insanely strong predictors. I'm guessing that there were very few illegal fishing vessel present in the data, so it was easier to make predictions based on the vessel's global data, than by using vessel's movement. Also, the most problematic samples happened when there were very few samples available for particular MMSI. In such cases movement features wouldn't help anyway. And finally, when I (primitively) visualized vessel's movement I would often wrongly assume that vessel was fishing when in fact it wasn't. So, either the movement features were often rather misleading (that would lead to more false positives and overall weaker models) or I was missing some crucial features that would allow me to tell the difference between fishing and non-fishing vessels.
+
+*) Despite everything I've said above, I tried to use movement features in more advanced way. I spent considerable amount of time on building RNN (Recurrent Neural Network) model that would get a path (list of sorted samples for a single MMSI within a similar time frame) as an input, and it tried to predict if the vessel was fishing in particular point of time within that time frame. The idea was to train this model, and then use its prediction as an additional feature for the main GBRT models. Unfortunately, I completely failed at this, as I wasn't even able to create any converging model.
+
+*) Since "non-static" AIS data didn't contain any errors and I got rid of error checking in ais.py, my solution assumes that AIS contained in testing/training files is correct. In case of severe errors, it's quite possible that the program will crash.
+
+*) My code contains "assert(time > 1400000000 && time < 1500000000);" which basically acts as primitive error checking when loading up files. When using data outside of that range, you have to remove that line or update the range.
